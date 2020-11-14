@@ -116,12 +116,12 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 104 10:27 Manage ATTENTION with effective User Interface (UI) Design | Preview
 		- [ ] 105 13:39 User Experience (UX) Design
 		- [ ] 106 18:20 Web Design in Practice - Let's apply what we've learnt!
-08-01. Introduction to Web Design.mp4
-08-02. Understanding Colour Theory.mp4
-08-03. Understanding Typography and How to Choose a Font.mp4
-08-04. Manage ATTENTION with effective User Interface (UI) Design.mp4
-08-05. User Experience (UX) Design.mp4
-08-06. Web Design in Practice - Let's apply what we've learnt!.mp4
+- 08-01. Introduction to Web Design.mp4
+- 08-02. Understanding Colour Theory.mp4
+- 08-03. Understanding Typography and How to Choose a Font.mp4
+- 08-04. Manage ATTENTION with effective User Interface (UI) Design.mp4
+- 08-05. User Experience (UX) Design.mp4
+- 08-06. Web Design in Practice - Let's apply what we've learnt!.mp4
 	- [ ] Section 09 Introduction to Javascript ES6 25 lectures • 2hr 28min
 		- [ ] 107 11:49 Introduction to Javascript
 		- [ ] 108 14:21 Javascript Alerts - Adding Behaviour to Websites
