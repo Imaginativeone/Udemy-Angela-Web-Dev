@@ -122,49 +122,32 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 09-03 109 04:06 Data Types
 		- [ ] 09-04 110 09:35 Javascript Variables
 		- [ ] 09-05 111 02:48 Javascript Variables Exercise Start
-	- [ ] Javascript Variables Exercise 1 question
-		- [ ] 112 03:28 Javascript Variables Exercise Solution
-		- [ ] 113 07:09 Naming and Naming Conventions for Javascript Variables
-	- [ ] Javascript Variable Naming Quiz 2 questions
-		- [ ] 114 03:07 String Concatenation
-		- [ ] 115 06:24 String Lengths and Retrieving the Number of Characters
-		- [ ] 116 08:56 Slicing and Extracting Parts of a String | Preview
-		- [ ] 117 03:39 Challenge: Changing Casing in Text
-		- [ ] 118 08:59 Challenge: Changing String Casing Solution
-		- [ ] 119 06:14 Basic Arithmetic and the Modulo Operator in Javascript
-		- [ ] 120 02:28 Increment and Decrement Expressions
-	- [ ] Javascript Numbers Quiz 3 questions
-		- [ ] 121 10:35 Functions Part 1: Creating and Calling Functions
-		- [ ] 122 09:08 Functions Part 1 Challenge - The Karel Robot
-		- [ ] 123 00:18 The Karel Chess Board Solution
-		- [ ] 124 00:12 A Quick Note About the Next Lesson
-		- [ ] 125 09:52 Functions Part 2: Parameters and Arguments
-	- [ ] Life in Weeks Coding Exercise 1 question
-		- [ ] 126 03:44 Life in Weeks Solution
-		- [ ] 127 11:16 Functions Part 3: Outputs & Return Values
-		- [ ] 128 01:49 Challenge: Create a BMI Calculator
-	- [ ] BMI Calculator Challenge 1 question
-		- [ ] 129 05:39 Challenge: BMI Calculator Solution
-	- [ ] JavaScript Functions Quiz 5 questions
-		- [ ] 130 02:35 Tip from Angela - Set Your Expectations
-		- [ ] 131 00:12 Feedback Time!
-09-07. Javascript Variables Exercise Solution.mp4
-09-08. Naming and Naming Conventions for Javascript Variables.mp4
-09-10. String Concatenation.mp4
-09-11. String Lengths and Retrieving the Number of Characters.mp4
-09-12. Slicing and Extracting Parts of a String.mp4
-09-13. Challenge Changing Casing in Text.mp4
-09-14. Challenge Changing String Casing Solution.mp4
-09-15. Basic Arithmetic and the Modulo Operator in Javascript.mp4
-09-16. Increment and Decrement Expressions.mp4
-09-18. Functions Part 1 Creating and Calling Functions.mp4
-09-19. Functions Part 1 Challenge - The Karel Robot.mp4
-09-22. Functions Part 2 Parameters and Arguments.mp4
-09-24. Life in Weeks Solution.mp4
-09-25. Functions Part 3 Outputs & Return Values.mp4
-09-26. Challenge Create a BMI Calculator.mp4
-09-28. Challenge BMI Calculator Solution.mp4
-09-30. Tip from Angela - Set Your Expectations.mp4
+		- [ ] Javascript Variables Exercise 1 question
+		- [ ] 09-07 112 03:28 Javascript Variables Exercise Solution
+		- [ ] 09-08 113 07:09 Naming and Naming Conventions for Javascript Variables
+		- [ ] Javascript Variable Naming Quiz 2 questions
+		- [ ] 09-10 114 03:07 String Concatenation
+		- [ ] 09-11 115 06:24 String Lengths and Retrieving the Number of Characters
+		- [ ] 09-12 116 08:56 Slicing and Extracting Parts of a String | Preview
+		- [ ] 09-13 117 03:39 Challenge: Changing Casing in Text
+		- [ ] 09-14 118 08:59 Challenge: Changing String Casing Solution
+		- [ ] 09-15 119 06:14 Basic Arithmetic and the Modulo Operator in Javascript
+		- [ ] 09-16 120 02:28 Increment and Decrement Expressions
+		- [ ] Javascript Numbers Quiz 3 questions
+		- [ ] 09-18 121 10:35 Functions Part 1: Creating and Calling Functions
+		- [ ] 09-19 122 09:08 Functions Part 1: Challenge - The Karel Robot
+		- [ ] 09-20 123 00:18 The Karel Chess Board Solution
+		- [ ] 09-21 124 00:12 A Quick Note About the Next Lesson
+		- [ ] 09-22 125 09:52 Functions Part 2: Parameters and Arguments
+		- [ ] Life in Weeks Coding Exercise 1 question
+		- [ ] 09-24 126 03:44 Life in Weeks Solution
+		- [ ] 09-25 127 11:16 Functions Part 3: Outputs & Return Values
+		- [ ] 09-26 128 01:49 Challenge: Create a BMI Calculator
+		- [ ] BMI Calculator Challenge 1 question
+		- [ ] 09-28 129 05:39 Challenge: BMI Calculator Solution
+		- [ ] JavaScript Functions Quiz 5 questions
+		- [ ] 09-30 130 02:35 Tip from Angela - Set Your Expectations
+		- [ ] 09-31 131 00:12 Feedback Time!
 	- [ ] Section 10 Intermediate Javascript 16 lectures • 1hr 30min
 		- [ ] 132 11:15 Random Number Generation in Javascript: Building a Love Calculator
 		- [ ] 133 04:48 Control Statements: Using If-Else Conditionals & Logic
