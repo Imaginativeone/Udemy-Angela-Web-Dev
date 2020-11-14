@@ -149,40 +149,26 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 09-30 130 02:35 Tip from Angela - Set Your Expectations
 		- [ ] 09-31 131 00:12 Feedback Time!
 	- [ ] Section 10 Intermediate Javascript 16 lectures • 1hr 30min
-		- [ ] 132 11:15 Random Number Generation in Javascript: Building a Love Calculator
-		- [ ] 133 04:48 Control Statements: Using If-Else Conditionals & Logic
-		- [ ] 134 02:51 Comparators and Equality
-		- [ ] 135 02:46 Combining Comparators
-	- [ ] BMI Calculator Advanced (IF/ELSE) | 1 question
-		- [ ] 136 04:16 Introducing the Leap Year Code Challenge
-	- [ ] Leap Year Challenge Exercise | 1 question
-		- [ ] 137 03:03 Leap Year Solution
-		- [ ] 138 09:01 Collections: Working with Javascript Arrays
-		- [ ] 139 15:58 Adding Elements and Intermediate Array Techniques
-	- [ ] Who's Buying Lunch? Code Challenge | 1 question
-		- [ ] 140 03:43 Who's Buying Lunch Solution
-		- [ ] 141 07:52 Control Statements: While Loops
-		- [ ] 142 00:45 Solution to the 99 Bottles Challenge
-		- [ ] 143 06:10 Control Statements: For Loops
-		- [ ] 144 06:37 Introducing the Fibonacci Code Challenge
-	- [ ] The Fibonacci Exercise | 1 question
-		- [ ] 145 08:16 Fibonacci Solution
-		- [ ] 146 02:52 Tip from Angela - Retrieval is How You Learn
-		- [ ] 147 00:12 Feedback Time!
-10-01. Random Number Generation in Javascript Building a Love Calculator.mp4
-10-02. Control Statements Using If-Else Conditionals & Logic.mp4
-10-03. Comparators and Equality.mp4
-10-04. Combining Comparators.mp4
-10-06. Introducing the Leap Year Code Challenge.mp4
-10-08. Leap Year Solution.mp4
-10-09. Collections Working with Javascript Arrays.mp4
-10-10. Adding Elements and Intermediate Array Techniques.mp4
-10-12. Who's Buying Lunch Solution.mp4
-10-13. Control Statements While Loops.mp4
-10-15. Control Statements For Loops.mp4
-10-16. Introducing the Fibonacci Code Challenge.mp4
-10-18. Fibonacci Solution.mp4
-10-19. Tip from Angela - Retrieval is How You Learn.mp4
+		- [ ] 10-01 132 11:15 Random Number Generation in Javascript: Building a Love Calculator
+		- [ ] 10-02 133 04:48 Control Statements: Using If-Else Conditionals & Logic
+		- [ ] 10-03 134 02:51 Comparators and Equality
+		- [ ] 10-04 135 02:46 Combining Comparators
+		- [ ] BMI Calculator Advanced (IF/ELSE) | 1 question
+		- [ ] 10-06 136 04:16 Introducing the Leap Year Code Challenge
+		- [ ] Leap Year Challenge Exercise | 1 question
+		- [ ] 10-08 137 03:03 Leap Year Solution
+		- [ ] 10-09 138 09:01 Collections: Working with Javascript Arrays
+		- [ ] 10-10 139 15:58 Adding Elements and Intermediate Array Techniques
+		- [ ] Who's Buying Lunch? Code Challenge | 1 question
+		- [ ] 10-12 140 03:43 Who's Buying Lunch Solution
+		- [ ] 10-13 141 07:52 Control Statements: While Loops
+		- [ ] 10-14 142 00:45 Solution to the 99 Bottles Challenge
+		- [ ] 10-15 143 06:10 Control Statements: For Loops
+		- [ ] 10-16 144 06:37 Introducing the Fibonacci Code Challenge
+		- [ ] The Fibonacci Exercise | 1 question
+		- [ ] 10-18 145 08:16 Fibonacci Solution
+		- [ ] 10-19 146 02:52 Tip from Angela - Retrieval is How You Learn
+		- [ ] 10-20 147 00:12 Feedback Time!
 	- [ ] Section 11 The Document Object Model (DOM) | 10 lectures • 57min
 		- [ ] 148 10:44 Adding Javascript to Websites
 		- [ ] 149 12:28 Introduction to the Document Object Model (DOM)
