@@ -110,18 +110,12 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 07-15 099 02:46 Tip from Angela - Building a Programming Habit
 		- [ ] 07-16 100 00:12 Feedback Time!
 	- [ ] Section 08 Web Design School - Create a Website that People Love 06 Ls • 1hr 6min
-		- [ ] 101 03:55 Introduction to Web Design | Preview
-		- [ ] 102 09:04 Understanding Colour Theory
-		- [ ] 103 10:28 Understanding Typography and How to Choose a Font
-		- [ ] 104 10:27 Manage ATTENTION with effective User Interface (UI) Design | Preview
-		- [ ] 105 13:39 User Experience (UX) Design
-		- [ ] 106 18:20 Web Design in Practice - Let's apply what we've learnt!
-- 08-01. Introduction to Web Design.mp4
-- 08-02. Understanding Colour Theory.mp4
-- 08-03. Understanding Typography and How to Choose a Font.mp4
-- 08-04. Manage ATTENTION with effective User Interface (UI) Design.mp4
-- 08-05. User Experience (UX) Design.mp4
-- 08-06. Web Design in Practice - Let's apply what we've learnt!.mp4
+		- [ ] 08-01 101 03:55 Introduction to Web Design | Preview
+		- [ ] 08-02 102 09:04 Understanding Colour Theory
+		- [ ] 08-03 103 10:28 Understanding Typography and How to Choose a Font
+		- [ ] 08-04 104 10:27 Manage ATTENTION with effective User Interface (UI) Design | Preview
+		- [ ] 08-05 105 13:39 User Experience (UX) Design
+		- [ ] 08-06 106 18:20 Web Design in Practice - Let's apply what we've learnt!
 	- [ ] Section 09 Introduction to Javascript ES6 25 lectures • 2hr 28min
 		- [ ] 107 11:49 Introduction to Javascript
 		- [ ] 108 14:21 Javascript Alerts - Adding Behaviour to Websites
