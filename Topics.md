@@ -117,11 +117,11 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 08-05 105 13:39 User Experience (UX) Design
 		- [ ] 08-06 106 18:20 Web Design in Practice - Let's apply what we've learnt!
 	- [ ] Section 09 Introduction to Javascript ES6 25 lectures • 2hr 28min
-		- [ ] 107 11:49 Introduction to Javascript
-		- [ ] 108 14:21 Javascript Alerts - Adding Behaviour to Websites
-		- [ ] 109 04:06 Data Types
-		- [ ] 110 09:35 Javascript Variables
-		- [ ] 111 02:48 Javascript Variables Exercise Start
+		- [ ] 09-01 107 11:49 Introduction to Javascript
+		- [ ] 09-02 108 14:21 Javascript Alerts - Adding Behaviour to Websites
+		- [ ] 09-03 109 04:06 Data Types
+		- [ ] 09-04 110 09:35 Javascript Variables
+		- [ ] 09-05 111 02:48 Javascript Variables Exercise Start
 	- [ ] Javascript Variables Exercise 1 question
 		- [ ] 112 03:28 Javascript Variables Exercise Solution
 		- [ ] 113 07:09 Naming and Naming Conventions for Javascript Variables
@@ -148,11 +148,6 @@ Line 794, Line 112 Section 08, 835
 	- [ ] JavaScript Functions Quiz 5 questions
 		- [ ] 130 02:35 Tip from Angela - Set Your Expectations
 		- [ ] 131 00:12 Feedback Time!
-09-01. Introduction to Javascript.mp4
-09-02. Javascript Alerts - Adding Behaviour to Websites.mp4
-09-03. Data Types.mp4
-09-04. Javascript Variables.mp4
-09-05. Javascript Variables Exercise Start.mp4
 09-07. Javascript Variables Exercise Solution.mp4
 09-08. Naming and Naming Conventions for Javascript Variables.mp4
 09-10. String Concatenation.mp4
