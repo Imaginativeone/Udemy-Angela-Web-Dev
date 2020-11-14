@@ -233,29 +233,18 @@ Line 794, Line 112 Section 08, 835
 - 13-13. Adding Animation to Websites.mp4
 - 13-15. Tip from Angela - Dealing with Lack of Progress.mp4
 	- [ ] Section 14 jQuery | 12 lectures • 53min
-		- [ ] 186 03:44 What is jQuery?
-		- [ ] 187 09:08 How to Incorporate jQuery into Websites
-		- [ ] 188 03:58 How Minification Works to Reduce File Size
-		- [ ] 189 02:01 Selecting Elements with jQuery
-		- [ ] 190 05:13 Manipulating Styles with jQuery
-		- [ ] 191 03:36 Manipulating Text with jQuery
-		- [ ] 192 03:44 Manipulating Attributes with jQuery
-		- [ ] 193 07:47 Adding Event Listeners with jQuery
-		- [ ] 194 02:58 Adding and Removing Elements with jQuery
-		- [ ] 195 08:13 Website Animations with jQuery
-		- [ ] 196 02:20 Tip from Angela - Mixing Knowledge
-		- [ ] 197 00:12 Feedback Time!
-- 14-01. What is jQuery.mp4
-- 14-02. How to Incorporate jQuery into Websites.mp4
-- 14-03. How Minification Works to Reduce File Size.mp4
-- 14-04. Selecting Elements with jQuery.mp4
-- 14-05. Manipulating Styles with jQuery.mp4
-- 14-06. Manipulating Text with jQuery.mp4
-- 14-07. Manipulating Attributes with jQuery.mp4
-- 14-08. Adding Event Listeners with jQuery.mp4
-- 14-09. Adding and Removing Elements with jQuery.mp4
-- 14-10. Website Animations with jQuery.mp4
-- 14-11. Tip from Angela - Mixing Knowledge.mp4
+		- [ ] 14-01 186 03:44 What is jQuery?
+		- [ ] 14-02 187 09:08 How to Incorporate jQuery into Websites
+		- [ ] 14-03 188 03:58 How Minification Works to Reduce File Size
+		- [ ] 14-04 189 02:01 Selecting Elements with jQuery
+		- [ ] 14-05 190 05:13 Manipulating Styles with jQuery
+		- [ ] 14-06 191 03:36 Manipulating Text with jQuery
+		- [ ] 14-07 192 03:44 Manipulating Attributes with jQuery
+		- [ ] 14-08 193 07:47 Adding Event Listeners with jQuery
+		- [ ] 14-09 194 02:58 Adding and Removing Elements with jQuery
+		- [ ] 14-10 195 08:13 Website Animations with jQuery
+		- [ ] 14-11 196 02:20 Tip from Angela - Mixing Knowledge
+		- [ ] 14-12 197 00:12 Feedback Time!
 	- [ ] Section 15 Boss Level Challenge 2 - The Simon Game | 26 lectures • 15min
 		- [ ] 198 01:00 What You'll Make: The Simon Game
 		- [ ] 199 00:06 Play the Game
