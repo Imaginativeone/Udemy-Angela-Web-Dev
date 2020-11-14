@@ -1,4 +1,4 @@
-Line 794, Line 112 Section 08, 835
+Line 734, Line 183 Section 12
 - [ ] The Complete 2020 Web Development Bootcamp 35 sections • 469 lectures • 54h 12m
 	- [ ] Section 01 Front-End Web Development 10 lectures • 42min
 		- [ ] 01-01 001 03:09 What You'll Get in This Course Preview 
@@ -170,68 +170,46 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 10-19 146 02:52 Tip from Angela - Retrieval is How You Learn
 		- [ ] 10-20 147 00:12 Feedback Time!
 	- [ ] Section 11 The Document Object Model (DOM) | 10 lectures • 57min
-		- [ ] 148 10:44 Adding Javascript to Websites
-		- [ ] 149 12:28 Introduction to the Document Object Model (DOM)
-		- [ ] 150 00:07 Solution to the DOM Challenge
-		- [ ] 151 14:17 Selecting HTML Elements with Javascript
-		- [ ] 152 05:01 Manipulating and Changing Styles of HTML Elements with Javascript
-		- [ ] 153 05:57 The Separation of Concerns: Structure vs Style vs Behaviour
-		- [ ] 154 02:37 Text Manipulation and the Text Content Property
-		- [ ] 155 02:27 Manipulating HTML Element Attributes
-		- [ ] 156 02:39 Tip from Angela - The 20 Minute Method
-		- [ ] 157 00:12 Feedback Time!
-- 11-01. Adding Javascript to Websites.mp4
-- 11-02. Introduction to the Document Object Model (DOM).mp4
-- 11-04. Selecting HTML Elements with Javascript.mp4
-- 11-05. Manipulating and Changing Styles of HTML Elements with Javascript.mp4
-- 11-06. The Separation of Concerns Structure vs Style vs Behaviour.mp4
-- 11-07. Text Manipulation and the Text Content Property.mp4
-- 11-08. Manipulating HTML Element Attributes.mp4
-- 11-09. Tip from Angela - The 20 Minute Method.mp4
+		- [ ] 11-01 148 10:44 Adding Javascript to Websites
+		- [ ] 11-02 149 12:28 Introduction to the Document Object Model (DOM)
+		- [ ] 11-03 150 00:07 Solution to the DOM Challenge
+		- [ ] 11-04 151 14:17 Selecting HTML Elements with Javascript
+		- [ ] 11-05 152 05:01 Manipulating and Changing Styles of HTML Elements with Javascript
+		- [ ] 11-06 153 05:57 The Separation of Concerns: Structure vs Style vs Behaviour
+		- [ ] 11-07 154 02:37 Text Manipulation and the Text Content Property
+		- [ ] 11-08 155 02:27 Manipulating HTML Element Attributes
+		- [ ] 11-09 156 02:39 Tip from Angela - The 20 Minute Method
+		- [ ] 11-10 157 00:12 Feedback Time!
 	- [ ] Section 12 Boss Level Challenge 1 - The Dicee Game | 12 lectures • 20min
-		- [ ] 158 02:14 Challenge: The Dicee Challenge
-		- [ ] 159 00:07 Dicee Challenge Step 0 - Download the Skeleton Project
-		- [ ] 160 00:03 Dicee Challenge Step 1 - Create an External Javascript File
-		- [ ] 161 00:06 Dicee Challenge Step 2 - Add Dice Images
-		- [ ] 162 00:09 Dicee Challenge Step 3 - Create a Random Number
-		- [ ] 163 00:14 Dicee Challenge Step 4 - Change the <img> to a Random Dice
-		- [ ] 164 00:02 Dicee Challenge Step 5 - Change both <img> Elements
-		- [ ] 165 00:15 Dicee Challenge Step 6 - Change the Title to Display a Winner
-		- [ ] 166 14:43 The Solution to the Dicee Challenge
-		- [ ] 167 00:07 Download the Completed Website
-		- [ ] 168 02:06 Tip from Angela - Learning Before you Eat
-		- [ ] 169 00:12 Feedback Time!
-- 12-01. Challenge The Dicee Challenge.mp4
-- 12-09. The Solution to the Dicee Challenge.mp4
-- 12-11. Tip from Angela - Learning Before you Eat.mp4
+		- [ ] 12-01 158 02:14 Challenge: The Dicee Challenge
+		- [ ] 12-02 159 00:07 Dicee Challenge Step 0 - Download the Skeleton Project
+		- [ ] 12-03 160 00:03 Dicee Challenge Step 1 - Create an External Javascript File
+		- [ ] 12-04 161 00:06 Dicee Challenge Step 2 - Add Dice Images
+		- [ ] 12-05 162 00:09 Dicee Challenge Step 3 - Create a Random Number
+		- [ ] 12-06 163 00:14 Dicee Challenge Step 4 - Change the <img> to a Random Dice
+		- [ ] 12-07 164 00:02 Dicee Challenge Step 5 - Change both <img> Elements
+		- [ ] 12-08 165 00:15 Dicee Challenge Step 6 - Change the Title to Display a Winner
+		- [ ] 12-09 166 14:43 The Solution to the Dicee Challenge
+		- [ ] 12-10 167 00:07 Download the Completed Website
+		- [ ] 12-11 168 02:06 Tip from Angela - Learning Before you Eat
+		- [ ] 12-12 169 00:12 Feedback Time!
 	- [ ] Section 13 Advanced Javascript and DOM Manipulation | 16 lectures • 1hr 35min
-		- [ ] 170 01:19 What We'll Make: Drum Kit | Preview
-		- [ ] 171 00:07 Download the Starting Files
-		- [ ] 172 14:29 Adding Event Listeners to a Button
-		- [ ] 173 12:40 Higher Order Functions and Passing Functions as Arguments
-		- [ ] 174 00:08 Higher Order Function Challenge Solution
-		- [ ] 175 11:11 How to Play Sounds on a Website
-		- [ ] 176 12:04 A Deeper Understanding of Javascript Objects
-		- [ ] 177 05:22 How to Use Switch Statements in Javascript
-		- [ ] 178 06:29 Objects, their Methods and the Dot Notation
-		- [ ] 179 00:14 A Quick Note About the Next Lesson
-		- [ ] 180 07:37 Using Keyboard Event Listeners to Check for Key Presses
-		- [ ] 181 11:35 Understanding Callbacks and How to Respond to Events
-		- [ ] 182 08:31 Adding Animation to Websites
-		- [ ] 183 00:09 Download the Completed Website
-		- [ ] 184 03:08 Tip from Angela - Dealing with Lack of Progress
-		- [ ] 185 00:12 Feedback Time!
-- 13-01. What We'll Make Drum Kit.mp4
-- 13-03. Adding Event Listeners to a Button.mp4
-- 13-04. Higher Order Functions and Passing Functions as Arguments.mp4
-- 13-06. How to Play Sounds on a Website.mp4
-- 13-07. A Deeper Understanding of Javascript Objects.mp4
-- 13-08. How to Use Switch Statements in Javascript.mp4
-- 13-09. Objects, their Methods and the Dot Notation.mp4
-- 13-11. Using Keyboard Event Listeners to Check for Key Presses.mp4
-- 13-12. Understanding Callbacks and How to Respond to Events.mp4
-- 13-13. Adding Animation to Websites.mp4
-- 13-15. Tip from Angela - Dealing with Lack of Progress.mp4
+		- [ ] 13-01 170 01:19 What We'll Make: Drum Kit | Preview
+		- [ ] 13-02 171 00:07 Download the Starting Files
+		- [ ] 13-03 172 14:29 Adding Event Listeners to a Button
+		- [ ] 13-04 173 12:40 Higher Order Functions and Passing Functions as Arguments
+		- [ ] 13-05 174 00:08 Higher Order Function Challenge Solution
+		- [ ] 13-06 175 11:11 How to Play Sounds on a Website
+		- [ ] 13-07 176 12:04 A Deeper Understanding of Javascript Objects
+		- [ ] 13-08 177 05:22 How to Use Switch Statements in Javascript
+		- [ ] 13-09 178 06:29 Objects, their Methods and the Dot Notation
+		- [ ] 13-10 179 00:14 A Quick Note About the Next Lesson
+		- [ ] 13-11 180 07:37 Using Keyboard Event Listeners to Check for Key Presses
+		- [ ] 13-12 181 11:35 Understanding Callbacks and How to Respond to Events
+		- [ ] 13-13 182 08:31 Adding Animation to Websites
+		- [ ] 13-14 183 00:09 Download the Completed Website
+		- [ ] 13-15 184 03:08 Tip from Angela - Dealing with Lack of Progress
+		- [ ] 13-16 185 00:12 Feedback Time!
 	- [ ] Section 14 jQuery | 12 lectures • 53min
 		- [ ] 14-01 186 03:44 What is jQuery?
 		- [ ] 14-02 187 09:08 How to Incorporate jQuery into Websites
@@ -246,7 +224,7 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 14-11 196 02:20 Tip from Angela - Mixing Knowledge
 		- [ ] 14-12 197 00:12 Feedback Time!
 	- [ ] Section 15 Boss Level Challenge 2 - The Simon Game | 26 lectures • 15min
-		- [ ] 198 01:00 What You'll Make: The Simon Game
+		- [ ] 15-01 198 01:00 What You'll Make: The Simon Game
 		- [ ] 199 00:06 Play the Game
 		- [ ] 200 00:30 Step 00 - Download the Starting Files
 		- [ ] 201 00:25 Step 01 - Add Javascript and jQuery
@@ -270,42 +248,28 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 219 00:07 Step 10 - Restart the Game
 		- [ ] 220 00:29 Step 10 - Answer
 		- [ ] 221 00:20 Download the Completed Project Code
-		- [ ] 222 02:31 Tip from Angela - Dealing with Frustration
-		- [ ] 223 00:12 Feedback Time!
-15-01. What You'll Make The Simon Game.mp4
-15-25. Tip from Angela - Dealing with Frustration.mp4
+		- [ ] 15-25 222 02:31 Tip from Angela - Dealing with Frustration
+		- [ ] 15-26 223 00:12 Feedback Time!
 	- [ ] Section 16 The Unix Command Line | 7 lectures • 35min
-		- [ ] 224 00:50 Installing the Hyper Terminal
-		- [ ] 225 04:53 Command Line Hyper Setup
-		- [ ] 226 05:55 Understanding the Command Line. Long Live the Command Line!
-		- [ ] 227 10:13 Command Line Techniques and Directory Navigation
-		- [ ] 228 09:09 Creating, Opening, and Removing Files through the Command Line
-		- [ ] 229 03:48 Tip from Angela - Sleep is My Secret Weapon
-		- [ ] 230 00:12 Feedback Time!
-16-02. Command Line Hyper Setup.mp4
-16-03. Understanding the Command Line. Long Live the Command Line!.mp4
-16-04. Command Line Techniques and Directory Navigation.mp4
-16-05. Creating, Opening, and Removing Files through the Command Line.mp4
-16-06. Tip from Angela - Sleep is My Secret Weapon.mp4
+		- [ ] 16-01 224 00:50 Installing the Hyper Terminal
+		- [ ] 16-02 225 04:53 Command Line Hyper Setup
+		- [ ] 16-03 226 05:55 Understanding the Command Line. Long Live the Command Line!
+		- [ ] 16-04 227 10:13 Command Line Techniques and Directory Navigation
+		- [ ] 16-05 228 09:09 Creating, Opening, and Removing Files through the Command Line
+		- [ ] 16-06 229 03:48 Tip from Angela - Sleep is My Secret Weapon
+		- [ ] 16-07 230 00:12 Feedback Time!
 	- [ ] Section 17 Backend Web Development 1 lecture • 8min
-		- [ ] 231 08:02 Backend Web Development Explained
-17-01. Backend Web Development Explained.mp4
+		- [ ] 17-01 231 08:02 Backend Web Development Explained
 	- [ ] Section 18 Node.js | 9 lectures • 39min
-		- [ ] 232 05:40 What is Node.js? | Preview
-		- [ ] 233 00:32 Install Node.js on Mac
-		- [ ] 234 00:25 Install Node.js on Windows
-		- [ ] 235 06:27 The Power of the Command Line and How to Use Node
-		- [ ] 236 02:39 The Node REPL (Read Evaluation Print Loops)
-		- [ ] 237 08:19 How to Use the Native Node Modules
-		- [ ] 238 13:44 The NPM Package Manager and Installing External Node Modules
-		- [ ] 239 01:14 Tip from Angela - Step Up to the Challenge
-		- [ ] 240 00:12 Feedback Time!
-18-01. What is Node.js.mp4
-18-04. The Power of the Command Line and How to Use Node.mp4
-18-05. The Node REPL (Read Evaluation Print Loops).mp4
-18-06. How to Use the Native Node Modules.mp4
-18-07. The NPM Package Manager and Installing External Node Modules.mp4
-18-08. Tip from Angela - Step Up to the Challenge.mp4
+		- [ ] 18-01 232 05:40 What is Node.js? | Preview
+		- [ ] 18-02 233 00:32 Install Node.js on Mac
+		- [ ] 18-03 234 00:25 Install Node.js on Windows
+		- [ ] 18-04 235 06:27 The Power of the Command Line and How to Use Node
+		- [ ] 18-05 236 02:39 The Node REPL (Read Evaluation Print Loops)
+		- [ ] 18-06 237 08:19 How to Use the Native Node Modules
+		- [ ] 18-07 238 13:44 The NPM Package Manager and Installing External Node Modules
+		- [ ] 18-08 239 01:14 Tip from Angela - Step Up to the Challenge
+		- [ ] 18-09 240 00:12 Feedback Time!
 	- [ ] Section 19 Express.js with Node.js | 14 lectures • 1hr 14min
 		- [ ] 241 03:24 What is Express?
 		- [ ] 242 11:29 Creating Our First Server with Express
