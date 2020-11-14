@@ -1,518 +1,517 @@
 - [ ] The Complete 2020 Web Development Bootcamp 35 sections • 469 lectures • 54h 12m
 	- [ ] Section 01 Front-End Web Development 10 lectures • 42min
-		- [ ] What You'll Get in This Course Preview 03:09
-		- [ ] Syllabus Download | Preview | 00:11
-		- [ ] Bookmark the Course Resources | 00:16
-		- [ ] How to Get the Most Out of the Course | 09:33
-		- [ ] Download the 12 Rules to Learn to Code eBook | 00:41
-		- [ ] How Does the Internet Actually Work? | Preview | 05:42
-		- [ ] How Do Websites Actually Work? | Preview | 06:20
-		- [ ] What You'll Need to Get Started - Setup Your Local Web Development Environment | 06:59
-		- [ ] How to Get Help When You're Stuck | 06:39
-		- [ ] Pathfinder | 02:05
+		- [ ] 001 03:09 What You'll Get in This Course Preview 
+		- [ ] 002 00:11 Syllabus Download | Preview
+		- [ ] 003 00:16 Bookmark the Course Resources
+		- [ ] 004 09:33 How to Get the Most Out of the Course
+		- [ ] 005 00:41 Download the 12 Rules to Learn to Code eBook
+		- [ ] 006 05:42 How Does the Internet Actually Work? | Preview
+		- [ ] 007 06:20 How Do Websites Actually Work? | Preview
+		- [ ] 008 06:59 What You'll Need to Get Started - Setup Your Local Web Dev Environment
+		- [ ] 009 06:39 How to Get Help When You're Stuck
+		- [ ] 010 02:05 Pathfinder
 	- [ ] Section 02 Introduction to HTML 10 lectures • 1hr 19min
-		- [ ] Introduction to HTML | 10:51
-		- [ ] The Anatomy of an HTML Tag | 10:55
-		- [ ] What we're building - HTML Personal Site | 02:52
-		- [ ] What is The HTML Boilerplate? | 17:01
-		- [ ] How to Structure Text in HTML | 11:00
-		- [ ] HTML Lists | 05:24
-		- [ ] HTML Image Elements | 07:32
-		- [ ] HTML Links and Anchor Tags | 11:55
-		- [ ] How to Ace this Course | 01:24
-		- [ ] Feedback Time! | 00:15
+		- [ ] 011 10:51 Introduction to HTML
+		- [ ] 012 10:55 The Anatomy of an HTML Tag
+		- [ ] 013 02:52 What we're building - HTML Personal Site
+		- [ ] 014 17:01 What is The HTML Boilerplate?
+		- [ ] 015 11:00 How to Structure Text in HTML
+		- [ ] 016 05:24 HTML Lists
+		- [ ] 017 07:32 HTML Image Elements
+		- [ ] 018 11:55 HTML Links and Anchor Tags
+		- [ ] 019 01:24 How to Ace this Course
+		- [ ] 020 00:15 Feedback Time!
 	- [ ] Section 03 Intermediate HTML 11 lectures • 51min
-		- [ ] HTML Tables | 11:57
-		- [ ] Using HTML Tables for Layout | 02:17
-		- [ ] HTML Tables Code Challenge | 01:44
-		- [ ] How to Type Emojis | 01:02
-		- [ ] HTML Tables Solution Walkthrough | 06:42
-		- [ ] HTML Forms | 09:09
-		- [ ] Forms in Practice - Create a Contact Me Form | 07:27
-		- [ ] HTML Challenge 1 question
-		- [ ] Publish Your Website! | 06:44
-		- [ ] Tip from Angela - Habit Building with the Calendar Trick | 02:52
-		- [ ] Get Monthly Tips and Tools to Level Up as a Developer | 00:35
-		- [ ] Feedback Time! | 00:15
+		- [ ] 021 11:57 HTML Tables
+		- [ ] 022 02:17 Using HTML Tables for Layout
+		- [ ] 023 01:44 HTML Tables Code Challenge
+		- [ ] 024 01:02 How to Type Emojis
+		- [ ] 025 06:42 HTML Tables Solution Walkthrough
+		- [ ] 026 09:09 HTML Forms
+		- [ ] 027 07:27 Forms in Practice - Create a Contact Me Form
+	- [ ] Coding Exercise 1: HTML Challenge 1 question
+		- [ ] 028 06:44 Publish Your Website!
+		- [ ] 029 02:52 Tip from Angela - Habit Building with the Calendar Trick
+		- [ ] 030 00:35 Get Monthly Tips and Tools to Level Up as a Developer
+		- [ ] 031 00:15 Feedback Time!
 	- [ ] Section 04 Introduction to CSS 12 lectures • 1hr 30min
-		- [ ] Introduction to CSS | 03:04
-		- [ ] Inline CSS | 09:56
-		- [ ] A Quick Note About the Next Lesson | 00:12
-		- [ ] Internal CSS | 20:22
-		- [ ] External CSS | 08:29
-		- [ ] How to Debug CSS Code | 13:37
-		- [ ] The Anatomy of CSS Syntax | 13:08
-		- [ ] CSS Selectors | 06:23
-		- [ ] Classes vs. Ids | 11:44
-		- [ ] CSS Quiz
-		- [ ] 6 questions
-		- [ ] Tip from Angela - Dealing with Distractions | 02:28
-		- [ ] Join the Student Community | 00:19
-		- [ ] Feedback Time! | 00:12
+		- [ ] 032 03:04 Introduction to CSS
+		- [ ] 033 09:56 Inline CSS
+		- [ ] 034 00:12 A Quick Note About the Next Lesson
+		- [ ] 035 20:22 Internal CSS
+		- [ ] 036 08:29 External CSS
+		- [ ] 037 13:37 How to Debug CSS Code
+		- [ ] 038 13:08 The Anatomy of CSS Syntax
+		- [ ] 039 06:23 CSS Selectors
+		- [ ] 040 11:44 Classes vs. Ids
+	- [ ] Quiz 1: CSS Quiz 6 questions
+		- [ ] 041 02:28 Tip from Angela - Dealing with Distractions
+		- [ ] 042 00:19 Join the Student Community
+		- [ ] 043 00:12 Feedback Time!
 	- [ ] Section 05 Intermediate CSS 23 lectures • 2hr 55min
-		- [ ] What We'll Make - Stylised Personal Site | 04:57
-		- [ ] What Are Favicons? | 03:47
-		- [ ] HTML Divs | 13:33
-		- [ ] The Box Model of Website Styling | 19:25
-		- [ ] CSS Display Property | 15:11
-		- [ ] Learn More About Web Design | 00:10
-		- [ ] CSS Static and Relative Positioning | 14:36
-		- [ ] Absolute positioning | 12:12
-		- [ ] The Dark Art of Centering Elements with CSS | 09:03
-		- [ ] Font Styling in Our Personal Site | 13:59
-		- [ ] Learn More About Typography | 00:10
-		- [ ] Adding Content to Our Website | 06:52
-		- [ ] CSS Sizing | 15:39
-		- [ ] Font Properties Challenge 1 - Change the Font Colour | 00:09
-		- [ ] Font Properties Challenge 2 - Change the Font Weight | 00:02
-		- [ ] Font Properties Challenge 3 - Change the Line Height | 00:02
-		- [ ] CSS Font Property Challenge Solutions | 03:57
-		- [ ] CSS Float and Clear | 15:13
-		- [ ] CSS Challenge | 00:23
-		- [ ] Stylized Personal Site Solution Walkthrough | 21:22
-		- [ ] [Optional] Get More Practice HTML and CSS | 00:16
-		- [ ] Tip from Angela - Nothing Easy is Worth Doing! | 03:35
-		- [ ] Feedback Time! | 00:12
+		- [ ] 044 04:57 What We'll Make - Stylised Personal Site
+		- [ ] 045 03:47 What Are Favicons?
+		- [ ] 046 13:33 HTML Divs
+		- [ ] 047 19:25 The Box Model of Website Styling
+		- [ ] 048 15:11 CSS Display Property
+		- [ ] 049 00:10 Learn More About Web Design
+		- [ ] 050 14:36 CSS Static and Relative Positioning
+		- [ ] 051 12:12 Absolute positioning
+		- [ ] 052 09:03 The Dark Art of Centering Elements with CSS
+		- [ ] 053 13:59 Font Styling in Our Personal Site
+		- [ ] 054 00:10 Learn More About Typography
+		- [ ] 055 06:52 Adding Content to Our Website
+		- [ ] 056 15:39 CSS Sizing
+		- [ ] 057 00:09 Font Properties Challenge 1 - Change the Font Colour
+		- [ ] 058 00:02 Font Properties Challenge 2 - Change the Font Weight
+		- [ ] 059 00:02 Font Properties Challenge 3 - Change the Line Height
+		- [ ] 060 03:57 CSS Font Property Challenge Solutions
+		- [ ] 061 15:13 CSS Float and Clear
+		- [ ] 062 00:23 CSS Challenge
+		- [ ] 063 21:22 Stylized Personal Site Solution Walkthrough
+		- [ ] 064 00:16 [Optional] Get More Practice HTML and CSS
+		- [ ] 065 03:35 Tip from Angela - Nothing Easy is Worth Doing!
+		- [ ] 066 00:12 Feedback Time!
 	- [ ] Section 06 Introduction to Bootstrap 4 18 lectures • 2hr 35min
-		- [ ] What is Bootstrap? | 14:36
-		- [ ] Installing Bootstrap | 07:55
-		- [ ] Web Design 101 - Wireframing | 11:38
-		- [ ] The Bootstrap Navigation Bar | 20:40
-		- [ ] What We'll Make: TinDog | Preview | 00:56
-		- [ ] Download the Starting Files | 00:32
-		- [ ] Setting Up Our New Project | 07:41
-		- [ ] Bootstrap Grid Layout System | 20:17
-		- [ ] Getting Montserrat Black and other Font Weights | 00:31
-		- [ ] Adding Grid Layouts to Our Website | 09:39
-		- [ ] A Note About CSS Link Order | 00:52
-		- [ ] Bootstrap Containers | 05:54
-		- [ ] Bootstrap Buttons & Font Awesome | 11:30
-		- [ ] Styling Our Website Challenges and Solutions | 20:20
-		- [ ] Bootstrap Challenge 1 | 00:35
-		- [ ] Solution to Bootstrap Challenge 1 | 17:01
-		- [ ] Tip from Angela - How to Deal with Procrastination | 04:08
-		- [ ] Feedback Time! | 00:12
+		- [ ] 067 14:36 What is Bootstrap?
+		- [ ] 068 07:55 Installing Bootstrap
+		- [ ] 069 11:38 Web Design 101 - Wireframing
+		- [ ] 070 20:40 The Bootstrap Navigation Bar
+		- [ ] 071 00:56 What We'll Make: TinDog | Preview
+		- [ ] 072 00:32 Download the Starting Files
+		- [ ] 073 07:41 Setting Up Our New Project
+		- [ ] 074 20:17 Bootstrap Grid Layout System
+		- [ ] 075 00:31 Getting Montserrat Black and other Font Weights
+		- [ ] 076 09:39 Adding Grid Layouts to Our Website
+		- [ ] 077 00:52 A Note About CSS Link Order
+		- [ ] 078 05:54 Bootstrap Containers
+		- [ ] 079 11:30 Bootstrap Buttons & Font Awesome
+		- [ ] 080 20:20 Styling Our Website Challenges and Solutions
+		- [ ] 081 00:35 Bootstrap Challenge 1
+		- [ ] 082 17:01 Solution to Bootstrap Challenge 1
+		- [ ] 083 04:08 Tip from Angela - How to Deal with Procrastination
+		- [ ] 084 00:12 Feedback Time!
 	- [ ] Section 07 Intermediate Bootstrap 16 lectures • 2hr 35min
-		- [ ] The Bootstrap Carousel Part 1 | 09:39
-		- [ ] The Bootstrap Carousel Part 2 | 17:20
-		- [ ] Bootstrap Cards | 16:31
-		- [ ] The CSS Z-Index and Stacking Order | 21:28
-		- [ ] Media Query Breakpoints | 22:03
-		- [ ] Bootstrap Challenge 2 | 00:17
-		- [ ] Bootstrap Challenge 2 Solution | 11:46
-		- [ ] How to become a Better Programmer - Code Refactoring | 07:48
-		- [ ] Put it into Practice - Refactor our Website Part 1 | 19:20
-		- [ ] Advanced CSS - Combining Selectors | 11:43
-		- [ ] Refactoring our Website Part 2 | 05:21
-		- [ ] Advanced CSS - Selector Priority | 05:51
-		- [ ] Completing the Website | 02:34
-		- [ ] Download the Completed Website | 00:09
-		- [ ] Tip from Angela - Building a Programming Habit | 02:46
-		- [ ] Feedback Time! | 00:12
-	- [ ] Section 08 Web Design School - Create a Website that People Love 06 lectures • 1hr 6min
-		- [ ] Introduction to Web Design | Preview | 03:55
-		- [ ] Understanding Colour Theory | 09:04
-		- [ ] Understanding Typography and How to Choose a Font | 10:28
-		- [ ] Manage ATTENTION with effective User Interface (UI) Design | Preview | 10:27
-		- [ ] User Experience (UX) Design | 13:39
-		- [ ] Web Design in Practice - Let's apply what we've learnt! | 18:20
+		- [ ] 085 09:39 The Bootstrap Carousel Part 1
+		- [ ] 086 17:20 The Bootstrap Carousel Part 2
+		- [ ] 087 16:31 Bootstrap Cards
+		- [ ] 088 21:28 The CSS Z-Index and Stacking Order
+		- [ ] 089 22:03 Media Query Breakpoints
+		- [ ] 090 00:17 Bootstrap Challenge 2
+		- [ ] 091 11:46 Bootstrap Challenge 2 Solution
+		- [ ] 092 07:48 How to become a Better Programmer - Code Refactoring
+		- [ ] 093 19:20 Put it into Practice - Refactor our Website Part 1
+		- [ ] 094 11:43 Advanced CSS - Combining Selectors
+		- [ ] 095 05:21 Refactoring our Website Part 2
+		- [ ] 096 05:51 Advanced CSS - Selector Priority
+		- [ ] 097 02:34 Completing the Website
+		- [ ] 098 00:09 Download the Completed Website
+		- [ ] 099 02:46 Tip from Angela - Building a Programming Habit
+		- [ ] 100 00:12 Feedback Time!
+	- [ ] Section 08 Web Design School - Create a Website that People Love 06 Ls • 1hr 6min
+		- [ ] 101 03:55 Introduction to Web Design | Preview
+		- [ ] 102 09:04 Understanding Colour Theory
+		- [ ] 103 10:28 Understanding Typography and How to Choose a Font
+		- [ ] 104 10:27 Manage ATTENTION with effective User Interface (UI) Design | Preview
+		- [ ] 105 13:39 User Experience (UX) Design
+		- [ ] 106 18:20 Web Design in Practice - Let's apply what we've learnt!
 	- [ ] Section 09 Introduction to Javascript ES6 25 lectures • 2hr 28min
-		- [ ] Introduction to Javascript | 11:49
-		- [ ] Javascript Alerts - Adding Behaviour to Websites | 14:21
-		- [ ] Data Types | 04:06
-		- [ ] Javascript Variables | 09:35
-		- [ ] Javascript Variables Exercise Start | 02:48
-		- [ ] Javascript Variables Exercise 1 question
-		- [ ] Javascript Variables Exercise Solution | 03:28
-		- [ ] Naming and Naming Conventions for Javascript Variables | 07:09
-		- [ ] Javascript Variable Naming Quiz 2 questions
-		- [ ] String Concatenation | 03:07
-		- [ ] String Lengths and Retrieving the Number of Characters | 06:24
-		- [ ] Slicing and Extracting Parts of a String | Preview | 08:56
-		- [ ] Challenge: Changing Casing in Text | 03:39
-		- [ ] Challenge: Changing String Casing Solution | 08:59
-		- [ ] Basic Arithmetic and the Modulo Operator in Javascript | 06:14
-		- [ ] Increment and Decrement Expressions | 02:28
-		- [ ] Javascript Numbers Quiz 3 questions
-		- [ ] Functions Part 1: Creating and Calling Functions | 10:35
-		- [ ] Functions Part 1 Challenge - The Karel Robot | 09:08
-		- [ ] The Karel Chess Board Solution | 00:18
-		- [ ] A Quick Note About the Next Lesson | 00:12
-		- [ ] Functions Part 2: Parameters and Arguments | 09:52
-		- [ ] Life in Weeks Coding Exercise 1 question
-		- [ ] Life in Weeks Solution | 03:44
-		- [ ] Functions Part 3: Outputs & Return Values | 11:16
-		- [ ] Challenge: Create a BMI Calculator | 01:49
-		- [ ] BMI Calculator Challenge 1 question
-		- [ ] Challenge: BMI Calculator Solution | 05:39
-		- [ ] JavaScript Functions Quiz 5 questions
-		- [ ] Tip from Angela - Set Your Expectations | 02:35
-		- [ ] Feedback Time! | 00:12
+		- [ ] 107 11:49 Introduction to Javascript
+		- [ ] 108 14:21 Javascript Alerts - Adding Behaviour to Websites
+		- [ ] 109 04:06 Data Types
+		- [ ] 110 09:35 Javascript Variables
+		- [ ] 111 02:48 Javascript Variables Exercise Start
+	- [ ] Javascript Variables Exercise 1 question
+		- [ ] 112 03:28 Javascript Variables Exercise Solution
+		- [ ] 113 07:09 Naming and Naming Conventions for Javascript Variables
+	- [ ] Javascript Variable Naming Quiz 2 questions
+		- [ ] 114 03:07 String Concatenation
+		- [ ] 115 06:24 String Lengths and Retrieving the Number of Characters
+		- [ ] 116 08:56 Slicing and Extracting Parts of a String | Preview
+		- [ ] 117 03:39 Challenge: Changing Casing in Text
+		- [ ] 118 08:59 Challenge: Changing String Casing Solution
+		- [ ] 119 06:14 Basic Arithmetic and the Modulo Operator in Javascript
+		- [ ] 120 02:28 Increment and Decrement Expressions
+	- [ ] Javascript Numbers Quiz 3 questions
+		- [ ] 121 10:35 Functions Part 1: Creating and Calling Functions
+		- [ ] 122 09:08 Functions Part 1 Challenge - The Karel Robot
+		- [ ] 123 00:18 The Karel Chess Board Solution
+		- [ ] 124 00:12 A Quick Note About the Next Lesson
+		- [ ] 125 09:52 Functions Part 2: Parameters and Arguments
+	- [ ] Life in Weeks Coding Exercise 1 question
+		- [ ] 126 03:44 Life in Weeks Solution
+		- [ ] 127 11:16 Functions Part 3: Outputs & Return Values
+		- [ ] 128 01:49 Challenge: Create a BMI Calculator
+	- [ ] BMI Calculator Challenge 1 question
+		- [ ] 129 05:39 Challenge: BMI Calculator Solution
+	- [ ] JavaScript Functions Quiz 5 questions
+		- [ ] 130 02:35 Tip from Angela - Set Your Expectations
+		- [ ] 131 00:12 Feedback Time!
 	- [ ] Section 10 Intermediate Javascript 16 lectures • 1hr 30min
-		- [ ] Random Number Generation in Javascript: Building a Love Calculator | 11:15
-		- [ ] Control Statements: Using If-Else Conditionals & Logic | 04:48
-		- [ ] Comparators and Equality | 02:51
-		- [ ] Combining Comparators | 02:46
-		- [ ] BMI Calculator Advanced (IF/ELSE) | 1 question
-		- [ ] Introducing the Leap Year Code Challenge | 04:16
-		- [ ] Leap Year Challenge Exercise | 1 question
-		- [ ] Leap Year Solution | 03:03
-		- [ ] Collections: Working with Javascript Arrays | 09:01
-		- [ ] Adding Elements and Intermediate Array Techniques | 15:58
-		- [ ] Who's Buying Lunch? Code Challenge | 1 question
-		- [ ] Who's Buying Lunch Solution | 03:43
-		- [ ] Control Statements: While Loops | 07:52
-		- [ ] Solution to the 99 Bottles Challenge | 00:45
-		- [ ] Control Statements: For Loops | 06:10
-		- [ ] Introducing the Fibonacci Code Challenge | 06:37
-		- [ ] The Fibonacci Exercise | 1 question
-		- [ ] Fibonacci Solution | 08:16
-		- [ ] Tip from Angela - Retrieval is How You Learn | 02:52
-		- [ ] Feedback Time! | 00:12
+		- [ ] 132 11:15 Random Number Generation in Javascript: Building a Love Calculator
+		- [ ] 133 04:48 Control Statements: Using If-Else Conditionals & Logic
+		- [ ] 134 02:51 Comparators and Equality
+		- [ ] 135 02:46 Combining Comparators
+	- [ ] BMI Calculator Advanced (IF/ELSE) | 1 question
+		- [ ] 136 04:16 Introducing the Leap Year Code Challenge
+	- [ ] Leap Year Challenge Exercise | 1 question
+		- [ ] 137 03:03 Leap Year Solution
+		- [ ] 138 09:01 Collections: Working with Javascript Arrays
+		- [ ] 139 15:58 Adding Elements and Intermediate Array Techniques
+	- [ ] Who's Buying Lunch? Code Challenge | 1 question
+		- [ ] 140 03:43 Who's Buying Lunch Solution
+		- [ ] 141 07:52 Control Statements: While Loops
+		- [ ] 142 00:45 Solution to the 99 Bottles Challenge
+		- [ ] 143 06:10 Control Statements: For Loops
+		- [ ] 144 06:37 Introducing the Fibonacci Code Challenge
+	- [ ] The Fibonacci Exercise | 1 question
+		- [ ] 145 08:16 Fibonacci Solution
+		- [ ] 146 02:52 Tip from Angela - Retrieval is How You Learn
+		- [ ] 147 00:12 Feedback Time!
 	- [ ] Section 11 The Document Object Model (DOM) | 10 lectures • 57min
-		- [ ] Adding Javascript to Websites | 10:44
-		- [ ] Introduction to the Document Object Model (DOM) | 12:28
-		- [ ] Solution to the DOM Challenge | 00:07
-		- [ ] Selecting HTML Elements with Javascript | 14:17
-		- [ ] Manipulating and Changing Styles of HTML Elements with Javascript | 05:01
-		- [ ] The Separation of Concerns: Structure vs Style vs Behaviour | 05:57
-		- [ ] Text Manipulation and the Text Content Property | 02:37
-		- [ ] Manipulating HTML Element Attributes | 02:27
-		- [ ] Tip from Angela - The 20 Minute Method | 02:39
-		- [ ] Feedback Time! | 00:12
+		- [ ] 148 10:44 Adding Javascript to Websites
+		- [ ] 149 12:28 Introduction to the Document Object Model (DOM)
+		- [ ] 150 00:07 Solution to the DOM Challenge
+		- [ ] 151 14:17 Selecting HTML Elements with Javascript
+		- [ ] 152 05:01 Manipulating and Changing Styles of HTML Elements with Javascript
+		- [ ] 153 05:57 The Separation of Concerns: Structure vs Style vs Behaviour
+		- [ ] 154 02:37 Text Manipulation and the Text Content Property
+		- [ ] 155 02:27 Manipulating HTML Element Attributes
+		- [ ] 156 02:39 Tip from Angela - The 20 Minute Method
+		- [ ] 157 00:12 Feedback Time!
 	- [ ] Section 12 Boss Level Challenge 1 - The Dicee Game | 12 lectures • 20min
-		- [ ] Challenge: The Dicee Challenge | 02:14
-		- [ ] Dicee Challenge Step 0 - Download the Skeleton Project | 00:07
-		- [ ] Dicee Challenge Step 1 - Create an External Javascript File | 00:03
-		- [ ] Dicee Challenge Step 2 - Add Dice Images | 00:06
-		- [ ] Dicee Challenge Step 3 - Create a Random Number | 00:09
-		- [ ] Dicee Challenge Step 4 - Change the <img> to a Random Dice | 00:14
-		- [ ] Dicee Challenge Step 5 - Change both <img> Elements | 00:02
-		- [ ] Dicee Challenge Step 6 - Change the Title to Display a Winner | 00:15
-		- [ ] The Solution to the Dicee Challenge | 14:43
-		- [ ] Download the Completed Website | 00:07
-		- [ ] Tip from Angela - Learning Before you Eat | 02:06
-		- [ ] Feedback Time! | 00:12
+		- [ ] 158 02:14 Challenge: The Dicee Challenge
+		- [ ] 159 00:07 Dicee Challenge Step 0 - Download the Skeleton Project
+		- [ ] 160 00:03 Dicee Challenge Step 1 - Create an External Javascript File
+		- [ ] 161 00:06 Dicee Challenge Step 2 - Add Dice Images
+		- [ ] 162 00:09 Dicee Challenge Step 3 - Create a Random Number
+		- [ ] 163 00:14 Dicee Challenge Step 4 - Change the <img> to a Random Dice
+		- [ ] 164 00:02 Dicee Challenge Step 5 - Change both <img> Elements
+		- [ ] 165 00:15 Dicee Challenge Step 6 - Change the Title to Display a Winner
+		- [ ] 166 14:43 The Solution to the Dicee Challenge
+		- [ ] 167 00:07 Download the Completed Website
+		- [ ] 168 02:06 Tip from Angela - Learning Before you Eat
+		- [ ] 169 00:12 Feedback Time!
 	- [ ] Section 13 Advanced Javascript and DOM Manipulation | 16 lectures • 1hr 35min
-		- [ ] What We'll Make: Drum Kit | Preview | 01:19
-		- [ ] Download the Starting Files | 00:07
-		- [ ] Adding Event Listeners to a Button | 14:29
-		- [ ] Higher Order Functions and Passing Functions as Arguments | 12:40
-		- [ ] Higher Order Function Challenge Solution | 00:08
-		- [ ] How to Play Sounds on a Website | 11:11
-		- [ ] A Deeper Understanding of Javascript Objects | 12:04
-		- [ ] How to Use Switch Statements in Javascript | 05:22
-		- [ ] Objects, their Methods and the Dot Notation | 06:29
-		- [ ] A Quick Note About the Next Lesson | 00:14
-		- [ ] Using Keyboard Event Listeners to Check for Key Presses | 07:37
-		- [ ] Understanding Callbacks and How to Respond to Events | 11:35
-		- [ ] Adding Animation to Websites | 08:31
-		- [ ] Download the Completed Website | 00:09
-		- [ ] Tip from Angela - Dealing with Lack of Progress | 03:08
-		- [ ] Feedback Time! | 00:12
+		- [ ] 170 01:19 What We'll Make: Drum Kit | Preview
+		- [ ] 171 00:07 Download the Starting Files
+		- [ ] 172 14:29 Adding Event Listeners to a Button
+		- [ ] 173 12:40 Higher Order Functions and Passing Functions as Arguments
+		- [ ] 174 00:08 Higher Order Function Challenge Solution
+		- [ ] 175 11:11 How to Play Sounds on a Website
+		- [ ] 176 12:04 A Deeper Understanding of Javascript Objects
+		- [ ] 177 05:22 How to Use Switch Statements in Javascript
+		- [ ] 178 06:29 Objects, their Methods and the Dot Notation
+		- [ ] 179 00:14 A Quick Note About the Next Lesson
+		- [ ] 180 07:37 Using Keyboard Event Listeners to Check for Key Presses
+		- [ ] 181 11:35 Understanding Callbacks and How to Respond to Events
+		- [ ] 182 08:31 Adding Animation to Websites
+		- [ ] 183 00:09 Download the Completed Website
+		- [ ] 184 03:08 Tip from Angela - Dealing with Lack of Progress
+		- [ ] 185 00:12 Feedback Time!
 	- [ ] Section 14 jQuery | 12 lectures • 53min
-		- [ ] What is jQuery? | 03:44
-		- [ ] How to Incorporate jQuery into Websites | 09:08
-		- [ ] How Minification Works to Reduce File Size | 03:58
-		- [ ] Selecting Elements with jQuery | 02:01
-		- [ ] Manipulating Styles with jQuery | 05:13
-		- [ ] Manipulating Text with jQuery | 03:36
-		- [ ] Manipulating Attributes with jQuery | 03:44
-		- [ ] Adding Event Listeners with jQuery | 07:47
-		- [ ] Adding and Removing Elements with jQuery | 02:58
-		- [ ] Website Animations with jQuery | 08:13
-		- [ ] Tip from Angela - Mixing Knowledge | 02:20
-		- [ ] Feedback Time! | 00:12
+		- [ ] 186 03:44 What is jQuery?
+		- [ ] 187 09:08 How to Incorporate jQuery into Websites
+		- [ ] 188 03:58 How Minification Works to Reduce File Size
+		- [ ] 189 02:01 Selecting Elements with jQuery
+		- [ ] 190 05:13 Manipulating Styles with jQuery
+		- [ ] 191 03:36 Manipulating Text with jQuery
+		- [ ] 192 03:44 Manipulating Attributes with jQuery
+		- [ ] 193 07:47 Adding Event Listeners with jQuery
+		- [ ] 194 02:58 Adding and Removing Elements with jQuery
+		- [ ] 195 08:13 Website Animations with jQuery
+		- [ ] 196 02:20 Tip from Angela - Mixing Knowledge
+		- [ ] 197 00:12 Feedback Time!
 	- [ ] Section 15 Boss Level Challenge 2 - The Simon Game | 26 lectures • 15min
-		- [ ] What You'll Make: The Simon Game | 01:00
-		- [ ] Play the Game | 00:06
-		- [ ] Step 0 - Download the Starting Files | 00:30
-		- [ ] Step 1 - Add Javascript and jQuery | 00:25
-		- [ ] Step 1 - Answer | 00:29
-		- [ ] Step 2 - Create A New Pattern | 00:49
-		- [ ] Step 2 - Answer | 00:29
-		- [ ] Step 3 - Show the Sequence to the User with Animations and Sounds | 00:23
-		- [ ] Step 3 - Answer | 00:29
-		- [ ] Step 4 - Check Which Button is Pressed | 00:47
-		- [ ] Step 4 - Answer | 00:29
-		- [ ] Step 5 - Add Sounds to Button Clicks | 00:22
-		- [ ] Step 5 - Answer | 00:29
-		- [ ] Step 6 - Add Animations to User Clicks | 00:26
-		- [ ] Step 6 - Answer | 00:29
-		- [ ] Step 7 - Start the Game | 00:46
-		- [ ] Step 7 - Answer | 00:29
-		- [ ] Step 8 - Check the User's Answer Against the Game Sequence8 | 01:15
-		- [ ] Step 8 - Answer | 00:29
-		- [ ] Step 9 - Game Over | 00:22
-		- [ ] Step 9 - Answer | 00:29
-		- [ ] Step 10 - Restart the Game | 00:07
-		- [ ] Step 10 - Answer | 00:29
-		- [ ] Download the Completed Project Code | 00:20
-		- [ ] Tip from Angela - Dealing with Frustration | 02:31
-		- [ ] Feedback Time! | 00:12
+		- [ ] 198 01:00 What You'll Make: The Simon Game
+		- [ ] 199 00:06 Play the Game
+		- [ ] 200 00:30 Step 00 - Download the Starting Files
+		- [ ] 201 00:25 Step 01 - Add Javascript and jQuery
+		- [ ] 202 00:29 Step 01 - Answer Resources
+		- [ ] 203 00:49 Step 02 - Create A New Pattern
+		- [ ] 204 00:29 Step 02 - Answer
+		- [ ] 205 00:23 Step 03 - Show the Sequence to the User with Animations and Sounds
+		- [ ] 206 00:29 Step 03 - Answer
+		- [ ] 207 00:47 Step 04 - Check Which Button is Pressed
+		- [ ] 208 00:29 Step 04 - Answer
+		- [ ] 209 00:22 Step 05 - Add Sounds to Button Clicks
+		- [ ] 210 00:29 Step 05 - Answer
+		- [ ] 211 00:26 Step 06 - Add Animations to User Clicks
+		- [ ] 212 00:29 Step 06 - Answer
+		- [ ] 213 00:46 Step 07 - Start the Game
+		- [ ] 214 00:29 Step 07 - Answer
+		- [ ] 215 01:15 Step 08 - Check the User's Answer Against the Game Sequence8
+		- [ ] 216 00:29 Step 08 - Answer
+		- [ ] 217 00:22 Step 09 - Game Over
+		- [ ] 218 00:29 Step 09 - Answer
+		- [ ] 219 00:07 Step 10 - Restart the Game
+		- [ ] 220 00:29 Step 10 - Answer
+		- [ ] 221 00:20 Download the Completed Project Code
+		- [ ] 222 02:31 Tip from Angela - Dealing with Frustration
+		- [ ] 223 00:12 Feedback Time!
 	- [ ] Section 16 The Unix Command Line | 7 lectures • 35min
-		- [ ] Installing the Hyper Terminal | 00:50
-		- [ ] Command Line Hyper Setup | 04:53
-		- [ ] Understanding the Command Line. Long Live the Command Line! | 05:55
-		- [ ] Command Line Techniques and Directory Navigation | 10:13
-		- [ ] Creating, Opening, and Removing Files through the Command Line | 09:09
-		- [ ] Tip from Angela - Sleep is My Secret Weapon | 03:48
-		- [ ] Feedback Time! | 00:12
+		- [ ] 224 00:50 Installing the Hyper Terminal
+		- [ ] 225 04:53 Command Line Hyper Setup
+		- [ ] 226 05:55 Understanding the Command Line. Long Live the Command Line!
+		- [ ] 227 10:13 Command Line Techniques and Directory Navigation
+		- [ ] 228 09:09 Creating, Opening, and Removing Files through the Command Line
+		- [ ] 229 03:48 Tip from Angela - Sleep is My Secret Weapon
+		- [ ] 230 00:12 Feedback Time!
 	- [ ] Section 17 Backend Web Development 1 lecture • 8min
-		- [ ] Backend Web Development Explained | 08:02
+		- [ ] 231 08:02 Backend Web Development Explained
 	- [ ] Section 18 Node.js | 9 lectures • 39min
-		- [ ] What is Node.js? | Preview | 05:40
-		- [ ] Install Node.js on Mac | 00:32
-		- [ ] Install Node.js on Windows | 00:25
-		- [ ] The Power of the Command Line and How to Use Node | 06:27
-		- [ ] The Node REPL (Read Evaluation Print Loops) | 02:39
-		- [ ] How to Use the Native Node Modules | 08:19
-		- [ ] The NPM Package Manager and Installing External Node Modules | 13:44
-		- [ ] Tip from Angela - Step Up to the Challenge | 01:14
-		- [ ] Feedback Time! | 00:12
+		- [ ] 232 05:40 What is Node.js? | Preview
+		- [ ] 233 00:32 Install Node.js on Mac
+		- [ ] 234 00:25 Install Node.js on Windows
+		- [ ] 235 06:27 The Power of the Command Line and How to Use Node
+		- [ ] 236 02:39 The Node REPL (Read Evaluation Print Loops)
+		- [ ] 237 08:19 How to Use the Native Node Modules
+		- [ ] 238 13:44 The NPM Package Manager and Installing External Node Modules
+		- [ ] 239 01:14 Tip from Angela - Step Up to the Challenge
+		- [ ] 240 00:12 Feedback Time!
 	- [ ] Section 19 Express.js with Node.js | 14 lectures • 1hr 14min
-		- [ ] What is Express? | 03:24
-		- [ ] Creating Our First Server with Express | 11:29
-		- [ ] Handling Requests and Responses: the GET Request | 08:12
-		- [ ] Nodemon Installation | 01:12
-		- [ ] Understanding and Working with Routes | 09:23
-		- [ ] What We'll Make: A Calculator | 01:52
-		- [ ] Calculator Setup Challenge | 00:25
-		- [ ] Calculator Setup: Challenge Solution | 05:43
-		- [ ] Responding to Requests with HTML Files | 07:40
-		- [ ] Processing Post Requests with Body Parser | 14:19
-		- [ ] BMI Routing Challenge | 00:51
-		- [ ] Solution to the BMI Routing Challenge | 06:29
-		- [ ] Tip from Angela - How to Solidify Your Knowledge | 02:55
-		- [ ] Feedback Time! | 00:12
+		- [ ] 241 03:24 What is Express?
+		- [ ] 242 11:29 Creating Our First Server with Express
+		- [ ] 243 08:12 Handling Requests and Responses: the GET Request
+		- [ ] 244 01:12 Nodemon Installation
+		- [ ] 245 09:23 Understanding and Working with Routes
+		- [ ] 246 01:52 What We'll Make: A Calculator
+		- [ ] 247 00:25 Calculator Setup Challenge
+		- [ ] 248 05:43 Calculator Setup: Challenge Solution
+		- [ ] 249 07:40 Responding to Requests with HTML Files
+		- [ ] 250 14:19 Processing Post Requests with Body Parser
+		- [ ] 251 00:51 BMI Routing Challenge
+		- [ ] 252 06:29 Solution to the BMI Routing Challenge
+		- [ ] 253 02:55 Tip from Angela - How to Solidify Your Knowledge
+		- [ ] 254 00:12 Feedback Time!
 	- [ ] Section 20 APIs - Application Programming Interfaces | 15 lectures • 2hr 33min
-		- [ ] Why Do We Need APIs? | 08:50
-		- [ ] API Endpoints, Paths and Parameters. | 10:59
-		- [ ] API Authentication and Postman | 11:34
-		- [ ] What is JSON? | 04:54
-		- [ ] Making GET Requests with the Node HTTPS Module | 13:00
-		- [ ] How to Parse JSON | 13:05
-		- [ ] Using Express to Render a Website with Live API Data | 08:23
-		- [ ] Using Body Parser to Parse POST Requests to the Server | 10:05
-		- [ ] The Mailchimp API - What You'll Make | 02:41
-		- [ ] Setting Up the Sign Up Page | 20:52
-		- [ ] Posting Data to Mailchimp's Servers via their API | 18:37
-		- [ ] Adding Success and Failure Pages | 08:55
-		- [ ] Deploying Your Server with Heroku | 18:38
-		- [ ] Tip from Angela - Location, Location, Location! | 02:06
-		- [ ] Feedback Time! | 00:12
+		- [ ] 255 08:50 Why Do We Need APIs?
+		- [ ] 256 10:59 API Endpoints, Paths and Parameters.
+		- [ ] 257 11:34 API Authentication and Postman
+		- [ ] 258 04:54 What is JSON?
+		- [ ] 259 13:00 Making GET Requests with the Node HTTPS Module
+		- [ ] 260 13:05 How to Parse JSON
+		- [ ] 261 08:23 Using Express to Render a Website with Live API Data
+		- [ ] 262 10:05 Using Body Parser to Parse POST Requests to the Server
+		- [ ] 263 02:41 The Mailchimp API - What You'll Make
+		- [ ] 264 20:52 Setting Up the Sign Up Page
+		- [ ] 265 18:37 Posting Data to Mailchimp's Servers via their API
+		- [ ] 266 08:55 Adding Success and Failure Pages
+		- [ ] 267 18:38 Deploying Your Server with Heroku
+		- [ ] 268 02:06 Tip from Angela - Location, Location, Location!
+		- [ ] 269 00:12 Feedback Time!
 	- [ ] Section 21 Git, Github and Version Control | 11 lectures • 1hr 25min
-		- [ ] Introduction to Version Control and Git | 02:35
-		- [ ] Version Control Using Git and the Command Line | 15:02
-		- [ ] GitHub and Remote Repositories | 11:00
-		- [ ] GitHub Private Repos are now Free! ? | 00:11
-		- [ ] Gitignore | 12:02
-		- [ ] Cloning | 05:05
-		- [ ] Branching and Merging | 17:25
-		- [ ] Optional Git Challenge | 00:05
-		- [ ] Forking and Pull Requests | 17:08
-		- [ ] Tip from Angela - Spaced Repetition | 04:01
-		- [ ] Feedback Time! | 00:12
+		- [ ] 270 02:35 Introduction to Version Control and Git
+		- [ ] 271 15:02 Version Control Using Git and the Command Line
+		- [ ] 272 11:00 GitHub and Remote Repositories
+		- [ ] 273 00:11 GitHub Private Repos are now Free! ?
+		- [ ] 274 12:02 Gitignore
+		- [ ] 275 05:05 Cloning
+		- [ ] 276 17:25 Branching and Merging
+		- [ ] 277 00:05 Optional Git Challenge
+		- [ ] 278 17:08 Forking and Pull Requests
+		- [ ] 279 04:01 Tip from Angela - Spaced Repetition
+		- [ ] 280 00:12 Feedback Time!
 	- [ ] Section 22 EJS | 12 lectures • 2hr 9min
-		- [ ] What We'll Make: A ToDoList | Preview | 00:46
-		- [ ] Linter Errors with EJS | 00:08
-		- [ ] Templates? Why Do We Need Templates? | 15:10
-		- [ ] Creating Your First EJS Templates | 17:53
-		- [ ] Running Code Inside the EJS Template | 06:33
-		- [ ] Passing Data from Your Webpage to Your Server | 25:05
-		- [ ] The Concept of Scope in the Context of Javascript | 08:40
-		- [ ] Adding Pre-Made CSS Stylesheets to Your Website | 16:14
-		- [ ] Understanding Templating vs. Layouts | 13:35
-		- [ ] Understanding Node Module Exports: How to Pass Functions and Data between Files | 21:45
-		- [ ] Tip from Angela - Use Accountability in your Favour | 02:56
-		- [ ] Feedback Time! | 00:12
+		- [ ] 281 00:46 What We'll Make: A ToDoList | Preview
+		- [ ] 282 00:08 Linter Errors with EJS
+		- [ ] 283 15:10 Templates? Why Do We Need Templates?
+		- [ ] 284 17:53 Creating Your First EJS Templates
+		- [ ] 285 06:33 Running Code Inside the EJS Template
+		- [ ] 286 25:05 Passing Data from Your Webpage to Your Server
+		- [ ] 287 08:40 The Concept of Scope in the Context of Javascript
+		- [ ] 288 16:14 Adding Pre-Made CSS Stylesheets to Your Website
+		- [ ] 289 13:35 Understanding Templating vs. Layouts
+		- [ ] 290 21:45 Understanding Node Module Exports: How to Pass Funcs & Data btwn Files
+		- [ ] 291 02:56 Tip from Angela - Use Accountability in your Favour
+		- [ ] 292 00:12 Feedback Time!
 	- [ ] Section 23 Boss Level Challenge 3 - Blog Website | 46 lectures • 2hr 38min
-		- [ ] A New Challenge Format and What We'll Make: A Blog | Preview | 06:18
-		- [ ] Setting Up the Blog Project | 07:06
-		- [ ] Challenge 1 | 04:04
-		- [ ] Challenge 1 Solution | 02:37
-		- [ ] Challenge 2 | 04:07
-		- [ ] Challenge 2 Solution | 02:09
-		- [ ] Challenge 3 | 02:37
-		- [ ] Challenge 3 Solution | 02:31
-		- [ ] Challenge 4 | 02:05
-		- [ ] Challenge 4 Solution | 01:52
-		- [ ] Challenge 5 | 02:47
-		- [ ] Challenge 5 Solution | 04:16
-		- [ ] Challenge 6 | 01:24
-		- [ ] Challenge 6 Solution | 01:15
-		- [ ] Challenge 7 | 00:59
-		- [ ] Challenge 7 Solution | 01:54
-		- [ ] Challenge 8 | 03:26
-		- [ ] Challenge 8 Solution | 03:36
-		- [ ] Challenge 9 | 04:42
-		- [ ] Challenge 9 Solution | 06:33
-		- [ ] Challenge 10 | 02:24
-		- [ ] Challenge 10 Solution | 03:13
-		- [ ] Challenge 11 | 03:21
-		- [ ] Challenge 11 Solution | 03:00
-		- [ ] Challenge 12 | 01:55
-		- [ ] Challenge 12 Solution | 02:34
-		- [ ] Challenge 13 | 02:46
-		- [ ] Challenge 13 Solution | 03:37
-		- [ ] Challenge 14 and Solution | 06:28
-		- [ ] Challenge 15 | 01:41
-		- [ ] Challenge 15 Solution | 03:14
-		- [ ] Express Routing Parameters | 06:38
-		- [ ] Challenge 16 | 01:55
-		- [ ] Challenge 16 Solution | 02:32
-		- [ ] Challenge 17 | 03:54
-		- [ ] Challenge 17 Solution | 05:30
-		- [ ] Challenge 18 | 06:04
-		- [ ] Challenge 18 Solution | 04:19
-		- [ ] Challenge 19 | 02:57
-		- [ ] Challenge 19 Solution | 04:54
-		- [ ] Challenge 20 | 02:58
-		- [ ] Challenge 20 Solution | 03:18
-		- [ ] Challenge 21 | 02:15
-		- [ ] Challenge 21 Solution | 03:44
-		- [ ] Tip from Angela - When Life Gives You Lemons | 06:01
-		- [ ] Feedback Time! | 00:12
+		- [ ] 293 06:18 A New Challenge Format and What We'll Make: A Blog | Preview
+		- [ ] 294 07:06 Setting Up the Blog Project
+		- [ ] 295 04:04 Challenge 1
+		- [ ] 296 02:37 Challenge 1 Solution
+		- [ ] 297 04:07 Challenge 2
+		- [ ] 298 02:09 Challenge 2 Solution
+		- [ ] 299 02:37 Challenge 3
+		- [ ] 300 02:31 Challenge 3 Solution
+		- [ ] 301 02:05 Challenge 4
+		- [ ] 302 01:52 Challenge 4 Solution
+		- [ ] 303 02:47 Challenge 5
+		- [ ] 304 04:16 Challenge 5 Solution
+		- [ ] 305 01:24 Challenge 6
+		- [ ] 306 01:15 Challenge 6 Solution
+		- [ ] 307 00:59 Challenge 7
+		- [ ] 308 01:54 Challenge 7 Solution
+		- [ ] 309 03:26 Challenge 8
+		- [ ] 310 03:36 Challenge 8 Solution
+		- [ ] 311 04:42 Challenge 9
+		- [ ] 312 06:33 Challenge 9 Solution
+		- [ ] 313 02:24 Challenge 10
+		- [ ] 314 03:13 Challenge 10 Solution
+		- [ ] 315 03:21 Challenge 11
+		- [ ] 316 03:00 Challenge 11 Solution
+		- [ ] 317 01:55 Challenge 12
+		- [ ] 318 02:34 Challenge 12 Solution
+		- [ ] 319 02:46 Challenge 13
+		- [ ] 320 03:37 Challenge 13 Solution
+		- [ ] 321 06:28 Challenge 14 and Solution
+		- [ ] 322 01:41 Challenge 15
+		- [ ] 323 03:14 Challenge 15 Solution
+		- [ ] 324 06:38 Express Routing Parameters
+		- [ ] 325 01:55 Challenge 16
+		- [ ] 326 02:32 Challenge 16 Solution
+		- [ ] 327 03:54 Challenge 17
+		- [ ] 328 05:30 Challenge 17 Solution
+		- [ ] 329 06:04 Challenge 18
+		- [ ] 330 04:19 Challenge 18 Solution
+		- [ ] 331 02:57 Challenge 19
+		- [ ] 332 04:54 Challenge 19 Solution
+		- [ ] 333 02:58 Challenge 20
+		- [ ] 334 03:18 Challenge 20 Solution
+		- [ ] 335 02:15 Challenge 21
+		- [ ] 336 03:44 Challenge 21 Solution
+		- [ ] 337 06:01 Tip from Angela - When Life Gives You Lemons
+		- [ ] 338 00:12 Feedback Time!
 	- [ ] Section 24 Databases 1 lecture • 20min
-		- [ ] Databases Explained: SQL vs. NOSQL | Preview | 19:58
+		- [ ] 339 19:58 Databases Explained: SQL vs. NOSQL | Preview
 	- [ ] Section 25 SQL | 7 lectures • 37min
-		- [ ] SQL Commands: CREATE Table and INSERT Data | 13:48
-		- [ ] SQL Commands: READ, SELECT, and WHERE | 03:10
-		- [ ] Updating Single Values and Adding Columns in SQL | 04:42
-		- [ ] SQL Commands: DELETE | 01:32
-		- [ ] Understanding SQL Relationships, Foreign Keys and Inner Joins | 11:13
-		- [ ] Tip from Angela - Find All the Hard Working People | 02:01
-		- [ ] Feedback Time! | 00:12
+		- [ ] 340 13:48 SQL Commands: CREATE Table and INSERT Data
+		- [ ] 341 03:10 SQL Commands: READ, SELECT, and WHERE
+		- [ ] 342 04:42 Updating Single Values and Adding Columns in SQL
+		- [ ] 343 01:32 SQL Commands: DELETE
+		- [ ] 344 11:13 Understanding SQL Relationships, Foreign Keys and Inner Joins
+		- [ ] 345 02:01 Tip from Angela - Find All the Hard Working People
+		- [ ] 346 00:12 Feedback Time!
 	- [ ] Section 26 MongoDB | 11 lectures • 1hr 12min
-		- [ ] Installing MongoDB on Mac | 12:34
-		- [ ] Installing MongoDB on Windows | 09:20
-		- [ ] MongoDB CRUD Operations in the Shell: Create | 09:37
-		- [ ] MongoDB CRUD Operations in the Shell: Reading & Queries | 06:22
-		- [ ] MongoDB CRUD Operations in the Shell: Update | 04:07
-		- [ ] MongoDB CRUD Operations in the Shell: Delete | 01:45
-		- [ ] Relationships in MongoDB | 06:12
-		- [ ] Working with The Native MongoDB Driver | 19:03
-		- [ ] If You Have Forgotten to Quit the Mongod Server | 00:30
-		- [ ] Tip from Angela - Daily Routines | 02:34
-		- [ ] Feedback Time! | 00:12
+		- [ ] 347 12:34 Installing MongoDB on Mac
+		- [ ] 348 09:20 Installing MongoDB on Windows
+		- [ ] 349 09:37 MongoDB CRUD Operations in the Shell: Create
+		- [ ] 350 06:22 MongoDB CRUD Operations in the Shell: Reading & Queries
+		- [ ] 351 04:07 MongoDB CRUD Operations in the Shell: Update
+		- [ ] 352 01:45 MongoDB CRUD Operations in the Shell: Delete
+		- [ ] 353 06:12 Relationships in MongoDB
+		- [ ] 354 19:03 Working with The Native MongoDB Driver
+		- [ ] 355 00:30 If You Have Forgotten to Quit the Mongod Server
+		- [ ] 356 02:34 Tip from Angela - Daily Routines
+		- [ ] 357 00:12 Feedback Time!
 	- [ ] Section 27 Mongoose | 7 lectures • 56min
-		- [ ] Introduction to Mongoose | 20:26
-		- [ ] Reading from Your Database with Mongoose | 07:28
-		- [ ] Data Validation with Mongoose | 07:55
-		- [ ] Updating and Deleting Data Using Mongoose | 10:06
-		- [ ] Establishing Relationships and Embedding Documents using Mongoose | 06:45
-		- [ ] Tip from Angela - Deep Work | 03:01
-		- [ ] Feedback Time! | 00:12
+		- [ ] 358 20:26 Introduction to Mongoose
+		- [ ] 359 07:28 Reading from Your Database with Mongoose
+		- [ ] 360 07:55 Data Validation with Mongoose
+		- [ ] 361 10:06 Updating and Deleting Data Using Mongoose
+		- [ ] 362 06:45 Establishing Relationships and Embedding Documents using Mongoose
+		- [ ] 363 03:01 Tip from Angela - Deep Work
+		- [ ] 364 00:12 Feedback Time!
 	- [ ] Section 28 Putting Everything Together | 9 lectures • 1hr 34min
-		- [ ] Let's take the ToDoList Project to the Next Level and Connect it with Mongoose | 16:46
-		- [ ] Rendering Database Items in the ToDoList App | 13:25
-		- [ ] Adding New Items to our ToDoList Database | 03:56
-		- [ ] Deleting Items from our ToDoList Database | 13:48
-		- [ ] Creating Custom Lists using Express Route Parameters | 16:12
-		- [ ] Adding New Items to the Custom ToDo Lists | 07:31
-		- [ ] Revisiting Lodash and Deleting Items from Custom ToDo Lists | 19:10
-		- [ ] Tip from Angela - One Step at a Time | 02:54
-		- [ ] Feedback Time! | 00:12
+		- [ ] 365 16:46 Let's take the ToDoList Proj to the Next Level & Connect it w Mongoose
+		- [ ] 366 13:25 Rendering Database Items in the ToDoList App
+		- [ ] 367 03:56 Adding New Items to our ToDoList Database
+		- [ ] 368 13:48 Deleting Items from our ToDoList Database
+		- [ ] 369 16:12 Creating Custom Lists using Express Route Parameters
+		- [ ] 370 07:31 Adding New Items to the Custom ToDo Lists
+		- [ ] 371 19:10 Revisiting Lodash and Deleting Items from Custom ToDo Lists
+		- [ ] 372 02:54 Tip from Angela - One Step at a Time
+		- [ ] 373 00:12 Feedback Time!
 	- [ ] Section 29 Deploying Your Web Application | 5 lectures • 33min
-		- [ ] How to Deploy Web Apps with a Database | 05:02
-		- [ ] How to Setup MongoDB Atlas | 13:41
-		- [ ] Deploying an App with a Database to Heroku | 12:13
-		- [ ] Tip from Angela - Discipline Breeds Discipline | 02:20
-		- [ ] Feedback Time! | 00:12
+		- [ ] 374 05:02 How to Deploy Web Apps with a Database
+		- [ ] 375 13:41 How to Setup MongoDB Atlas
+		- [ ] 376 12:13 Deploying an App with a Database to Heroku
+		- [ ] 377 02:20 Tip from Angela - Discipline Breeds Discipline
+		- [ ] 378 00:12 Feedback Time!
 	- [ ] Section 30 Boss Level Challenge 4 - Blog Website Upgrade | 9 lectures • 10min
-		- [ ] Challenge: Give your Blog a Database | 02:31
-		- [ ] Step 0 - Download the Starting Files | 00:06
-		- [ ] Step 1 - Save Composed Posts with MongoDB | 00:35
-		- [ ] Step 2 - Get the Home Page to Render the Posts | 00:14
-		- [ ] Step 3 - Fix the bug | 00:18
-		- [ ] Step 4 - Render the correct blog post based on post _id | 00:32
-		- [ ] Completed Blog with Database Solution | 00:09
-		- [ ] Tip from Angela - Dealing with Limitations | 05:22
-		- [ ] Feedback Time! | 00:12
+		- [ ] 379 02:31 Challenge: Give your Blog a Database
+		- [ ] 380 00:06 Step 0 - Download the Starting Files
+		- [ ] 381 00:35 Step 1 - Save Composed Posts with MongoDB
+		- [ ] 382 00:14 Step 2 - Get the Home Page to Render the Posts
+		- [ ] 383 00:18 Step 3 - Fix the bug
+		- [ ] 384 00:32 Step 4 - Render the correct blog post based on post _id
+		- [ ] 385 00:09 Completed Blog with Database Solution
+		- [ ] 386 05:22 Tip from Angela - Dealing with Limitations
+		- [ ] 387 00:12 Feedback Time!
 	- [ ] Section 31 Build Your Own RESTful API From Scratch | 15 lectures • 1hr 47min
-		- [ ] What is REST? | 17:08
-		- [ ] Creating a Database with Robo 3T | 09:29
-		- [ ] Set Up Server Challenge | 02:09
-		- [ ] Set Up Server Solution | 07:30
-		- [ ] GET All Articles | 06:50
-		- [ ] POST a New Article | 12:51
-		- [ ] DELTE All Articles | 05:11
-		- [ ] Chained Route Handlers Using Express | 07:07
-		- [ ] GET a Specific Article | 14:02
-		- [ ] PUT a Specific Article | 10:32
-		- [ ] PATCH a Specific Article | 07:17
-		- [ ] DELETE a Specific Article | 04:04
-		- [ ] Download the Completed Project Code | 00:08
-		- [ ] Tip from Angela - How to Get a Job as Programmer | 02:06
-		- [ ] Feedback Time! | 00:12
+		- [ ] 388 17:08 What is REST?
+		- [ ] 389 09:29 Creating a Database with Robo 3T
+		- [ ] 390 02:09 Set Up Server Challenge
+		- [ ] 391 07:30 Set Up Server Solution
+		- [ ] 392 06:50 GET All Articles
+		- [ ] 393 12:51 POST a New Article
+		- [ ] 394 05:11 DELTE All Articles
+		- [ ] 395 07:07 Chained Route Handlers Using Express
+		- [ ] 396 14:02 GET a Specific Article
+		- [ ] 397 10:32 PUT a Specific Article
+		- [ ] 398 07:17 PATCH a Specific Article
+		- [ ] 399 04:04 DELETE a Specific Article
+		- [ ] 400 00:08 Download the Completed Project Code
+		- [ ] 401 02:06 Tip from Angela - How to Get a Job as Programmer
+		- [ ] 402 00:12 Feedback Time!
 	- [ ] Section 32 Authentication & Security | 16 lectures • 3hr 33min
-		- [ ] Introduction to Authentication | 05:46
-		- [ ] Getting Set Up | 07:26
-		- [ ] Level 1 - Register Users with Username and Password | 14:42
-		- [ ] How to Review the Source Code | 00:39
-		- [ ] Level 2 - Database Encryption | 16:35
-		- [ ] Using Environment Variables to Keep Secrets Safe | 17:40
-		- [ ] Level 3 - Hashing Passwords | 15:25
-		- [ ] Hacking 101 ☣️ | 12:28
-		- [ ] Level 4 - Salting and Hashing Passwords with bcrypt | 20:41
-		- [ ] What are Cookies and Sessions? | 08:19
-		- [ ] Using Passport.js to Add Cookies and Sessions | 29:30
-		- [ ] Level 6 - OAuth 2.0 & How to Implement Sign In with Google | 47:46
-		- [ ] Finishing Up the App - Letting Users Submit Secrets | 13:40
-		- [ ] Download the Completed Project Code | 00:19
-		- [ ] Tip from Angela - How to Work as a Freelancer | 01:37
-		- [ ] Feedback Time! | 00:12
+		- [ ] 403 05:46 Introduction to Authentication
+		- [ ] 404 07:26 Getting Set Up
+		- [ ] 405 14:42 Level 1 - Register Users with Username and Password
+		- [ ] 406 00:39 How to Review the Source Code
+		- [ ] 407 16:35 Level 2 - Database Encryption
+		- [ ] 408 17:40 Using Environment Variables to Keep Secrets Safe
+		- [ ] 409 15:25 Level 3 - Hashing Passwords
+		- [ ] 410 12:28 Hacking 101 ☣️
+		- [ ] 411 20:41 Level 4 - Salting and Hashing Passwords with bcrypt
+		- [ ] 412 08:19 What are Cookies and Sessions?
+		- [ ] 413 29:30 Using Passport.js to Add Cookies and Sessions
+		- [ ] 414 47:46 Level 6 - OAuth 2.0 & How to Implement Sign In with Google
+		- [ ] 415 13:40 Finishing Up the App - Letting Users Submit Secrets
+		- [ ] 416 00:19 Download the Completed Project Code
+		- [ ] 417 01:37 Tip from Angela - How to Work as a Freelancer
+		- [ ] 418 00:12 Feedback Time!
 	- [ ] Section 33 React.js | 46 lectures • 8hr 54min
-		- [ ] What is React? | 07:28
-		- [ ] What we will make in this React module | 01:34
-		- [ ] Introduction to Code Sandbox and the Structure of the Module | 05:50
-		- [ ] Introduction to JSX and Babel | 16:12
-		- [ ] JSX Code Practice | 07:34
-		- [ ] Javascript Expressions in JSX & ES6 Template Literals | 11:42
-		- [ ] Javascript Expressions in JSX Practice | 08:34
-		- [ ] JSX Attributes & Styling React Elements | 16:58
-		- [ ] Inline Styling for React Elements | 08:41
-		- [ ] React Styling Practice | 09:59
-		- [ ] React Components | 15:47
-		- [ ] React Components Practice | 05:01
-		- [ ] Javascript ES6 - Import, Export and Modules | 11:10
-		- [ ] Javascript ES6 Import, Export and Modules Practice | 04:04
-		- [ ] [Windows]​ Local Environment Setup for React Development | 13:52
-		- [ ] [Mac] Local Environment Setup for React Development​ | 13:40
-		- [ ] Keeper App Project - Part 1 Challenge | 04:57
-		- [ ] Keeper App Part 1 Solution | 14:07
-		- [ ] React Props | 16:44
-		- [ ] React Props Practice | 13:19
-		- [ ] React DevTools | 17:19
-		- [ ] Mapping Data to Components | 10:20
-		- [ ] Mapping Data to Components​ Practice | 17:30
-		- [ ] Javascript ES6 Map/Filter/Reduce | 20:21
-		- [ ] Javascript ES6 Arrow functions | 09:56
-		- [ ] Keeper App Project - Part 2 | 10:23
-		- [ ] React Conditional Rendering with the Ternary Operator & AND Operator | 19:24
-		- [ ] Conditional Rendering Practice | 06:33
-		- [ ] State in React - Declarative vs. Imperative Programming | 09:38
-		- [ ] React Hooks - useState | 18:09
-		- [ ] useState Hook Practice | 07:24
-		- [ ] Javascript ES6 Object & Array Destructuring | 17:44
-		- [ ] Javascript ​ES6 Destructuring Challenge Solution | 05:48
-		- [ ] Event Handling in React | 11:10
-		- [ ] React Forms | 13:40
-		- [ ] Class Components vs. Functional Components | 06:24
-		- [ ] Changing Complex State | 19:43
-		- [ ] Changing Complex State Practice | 07:08
-		- [ ] Javascript ES6 Spread Operator | 10:58
-		- [ ] Javascript ES6 Spread Operator Practice | 12:20
-		- [ ] Managing a Component Tree | 22:37
-		- [ ] Managing a Component Tree Practice | 08:27
-		- [ ] Keeper App Project - Part 3 | 25:05
-		- [ ] React Dependencies & Styling the Keeper App | 16:38
-		- [ ] Tip from Angela - How to Build Your Own Product | 02:14
-		- [ ] Feedback Time! | 00:12
+		- [ ] 419 07:28 What is React?
+		- [ ] 420 01:34 What we will make in this React module
+		- [ ] 421 05:50 Introduction to Code Sandbox and the Structure of the Module
+		- [ ] 422 16:12 Introduction to JSX and Babel
+		- [ ] 423 07:34 JSX Code Practice
+		- [ ] 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
+		- [ ] 425 08:34 Javascript Expressions in JSX Practice
+		- [ ] 426 16:58 JSX Attributes & Styling React Elements
+		- [ ] 427 08:41 Inline Styling for React Elements
+		- [ ] 428 09:59 React Styling Practice
+		- [ ] 429 15:47 React Components
+		- [ ] 430 05:01 React Components Practice
+		- [ ] 431 11:10 Javascript ES6 - Import, Export and Modules
+		- [ ] 432 04:04 Javascript ES6 Import, Export and Modules Practice
+		- [ ] 433 13:52 [Windows]​ Local Environment Setup for React Development
+		- [ ] 434 13:40 [Mac] Local Environment Setup for React Development​
+		- [ ] 435 04:57 Keeper App Project - Part 1 Challenge
+		- [ ] 436 14:07 Keeper App Part 1 Solution
+		- [ ] 437 16:44 React Props
+		- [ ] 438 13:19 React Props Practice
+		- [ ] 439 17:19 React DevTools
+		- [ ] 440 10:20 Mapping Data to Components
+		- [ ] 441 17:30 Mapping Data to Components​ Practice
+		- [ ] 442 20:21 Javascript ES6 Map/Filter/Reduce
+		- [ ] 443 09:56 Javascript ES6 Arrow functions
+		- [ ] 444 10:23 Keeper App Project - Part 2
+		- [ ] 445 19:24 React Conditional Rendering with the Ternary Operator & AND Operator
+		- [ ] 446 06:33 Conditional Rendering Practice
+		- [ ] 447 09:38 State in React - Declarative vs. Imperative Programming
+		- [ ] 448 18:09 React Hooks - useState
+		- [ ] 449 07:24 useState Hook Practice
+		- [ ] 450 17:44 Javascript ES6 Object & Array Destructuring
+		- [ ] 451 05:48 Javascript ​ES6 Destructuring Challenge Solution
+		- [ ] 452 11:10 Event Handling in React
+		- [ ] 453 13:40 React Forms
+		- [ ] 454 06:24 Class Components vs. Functional Components
+		- [ ] 455 19:43 Changing Complex State
+		- [ ] 456 07:08 Changing Complex State Practice
+		- [ ] 457 10:58 Javascript ES6 Spread Operator
+		- [ ] 458 12:20 Javascript ES6 Spread Operator Practice
+		- [ ] 459 22:37 Managing a Component Tree
+		- [ ] 460 08:27 Managing a Component Tree Practice
+		- [ ] 461 25:05 Keeper App Project - Part 3
+		- [ ] 462 16:38 React Dependencies & Styling the Keeper App
+		- [ ] 463 02:14 Tip from Angela - How to Build Your Own Product
+		- [ ] 464 00:12 Feedback Time!
 	- [ ] Section 34 Bonus Module: Ask Angela Anything | 4 lectures • 1hr 44min
-		- [ ] AAA 1 - How to Soak in Programming Concepts and more... | 39:42
-		- [ ] AAA 2 - Schedule for Learning to Code and more... | 39:08
-		- [ ] AAA 3 - How to Start Freelancing and more... | 25:19
-		- [ ] Feedback Time! | 00:12
+		- [ ] 465 39:42 AAA 1 - How to Soak in Programming Concepts and more...
+		- [ ] 466 39:08 AAA 2 - Schedule for Learning to Code and more...
+		- [ ] 467 25:19 AAA 3 - How to Start Freelancing and more...
+		- [ ] 468 00:12 Feedback Time!
 	- [ ] Section 35 Next Steps 1 lecture • 1min
-		- [ ] Vote for the Next Module! | 00:12
+		- [ ] 469 00:12 Vote for the Next Module!
