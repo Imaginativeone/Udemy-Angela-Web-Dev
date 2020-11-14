@@ -180,14 +180,14 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 155 02:27 Manipulating HTML Element Attributes
 		- [ ] 156 02:39 Tip from Angela - The 20 Minute Method
 		- [ ] 157 00:12 Feedback Time!
-11-01. Adding Javascript to Websites.mp4
-11-02. Introduction to the Document Object Model (DOM).mp4
-11-04. Selecting HTML Elements with Javascript.mp4
-11-05. Manipulating and Changing Styles of HTML Elements with Javascript.mp4
-11-06. The Separation of Concerns Structure vs Style vs Behaviour.mp4
-11-07. Text Manipulation and the Text Content Property.mp4
-11-08. Manipulating HTML Element Attributes.mp4
-11-09. Tip from Angela - The 20 Minute Method.mp4
+- 11-01. Adding Javascript to Websites.mp4
+- 11-02. Introduction to the Document Object Model (DOM).mp4
+- 11-04. Selecting HTML Elements with Javascript.mp4
+- 11-05. Manipulating and Changing Styles of HTML Elements with Javascript.mp4
+- 11-06. The Separation of Concerns Structure vs Style vs Behaviour.mp4
+- 11-07. Text Manipulation and the Text Content Property.mp4
+- 11-08. Manipulating HTML Element Attributes.mp4
+- 11-09. Tip from Angela - The 20 Minute Method.mp4
 	- [ ] Section 12 Boss Level Challenge 1 - The Dicee Game | 12 lectures • 20min
 		- [ ] 158 02:14 Challenge: The Dicee Challenge
 		- [ ] 159 00:07 Dicee Challenge Step 0 - Download the Skeleton Project
@@ -201,9 +201,9 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 167 00:07 Download the Completed Website
 		- [ ] 168 02:06 Tip from Angela - Learning Before you Eat
 		- [ ] 169 00:12 Feedback Time!
-12-01. Challenge The Dicee Challenge.mp4
-12-09. The Solution to the Dicee Challenge.mp4
-12-11. Tip from Angela - Learning Before you Eat.mp4
+- 12-01. Challenge The Dicee Challenge.mp4
+- 12-09. The Solution to the Dicee Challenge.mp4
+- 12-11. Tip from Angela - Learning Before you Eat.mp4
 	- [ ] Section 13 Advanced Javascript and DOM Manipulation | 16 lectures • 1hr 35min
 		- [ ] 170 01:19 What We'll Make: Drum Kit | Preview
 		- [ ] 171 00:07 Download the Starting Files
@@ -221,17 +221,17 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 183 00:09 Download the Completed Website
 		- [ ] 184 03:08 Tip from Angela - Dealing with Lack of Progress
 		- [ ] 185 00:12 Feedback Time!
-13-01. What We'll Make Drum Kit.mp4
-13-03. Adding Event Listeners to a Button.mp4
-13-04. Higher Order Functions and Passing Functions as Arguments.mp4
-13-06. How to Play Sounds on a Website.mp4
-13-07. A Deeper Understanding of Javascript Objects.mp4
-13-08. How to Use Switch Statements in Javascript.mp4
-13-09. Objects, their Methods and the Dot Notation.mp4
-13-11. Using Keyboard Event Listeners to Check for Key Presses.mp4
-13-12. Understanding Callbacks and How to Respond to Events.mp4
-13-13. Adding Animation to Websites.mp4
-13-15. Tip from Angela - Dealing with Lack of Progress.mp4
+- 13-01. What We'll Make Drum Kit.mp4
+- 13-03. Adding Event Listeners to a Button.mp4
+- 13-04. Higher Order Functions and Passing Functions as Arguments.mp4
+- 13-06. How to Play Sounds on a Website.mp4
+- 13-07. A Deeper Understanding of Javascript Objects.mp4
+- 13-08. How to Use Switch Statements in Javascript.mp4
+- 13-09. Objects, their Methods and the Dot Notation.mp4
+- 13-11. Using Keyboard Event Listeners to Check for Key Presses.mp4
+- 13-12. Understanding Callbacks and How to Respond to Events.mp4
+- 13-13. Adding Animation to Websites.mp4
+- 13-15. Tip from Angela - Dealing with Lack of Progress.mp4
 	- [ ] Section 14 jQuery | 12 lectures • 53min
 		- [ ] 186 03:44 What is jQuery?
 		- [ ] 187 09:08 How to Incorporate jQuery into Websites
@@ -245,17 +245,17 @@ Line 794, Line 112 Section 08, 835
 		- [ ] 195 08:13 Website Animations with jQuery
 		- [ ] 196 02:20 Tip from Angela - Mixing Knowledge
 		- [ ] 197 00:12 Feedback Time!
-14-01. What is jQuery.mp4
-14-02. How to Incorporate jQuery into Websites.mp4
-14-03. How Minification Works to Reduce File Size.mp4
-14-04. Selecting Elements with jQuery.mp4
-14-05. Manipulating Styles with jQuery.mp4
-14-06. Manipulating Text with jQuery.mp4
-14-07. Manipulating Attributes with jQuery.mp4
-14-08. Adding Event Listeners with jQuery.mp4
-14-09. Adding and Removing Elements with jQuery.mp4
-14-10. Website Animations with jQuery.mp4
-14-11. Tip from Angela - Mixing Knowledge.mp4
+- 14-01. What is jQuery.mp4
+- 14-02. How to Incorporate jQuery into Websites.mp4
+- 14-03. How Minification Works to Reduce File Size.mp4
+- 14-04. Selecting Elements with jQuery.mp4
+- 14-05. Manipulating Styles with jQuery.mp4
+- 14-06. Manipulating Text with jQuery.mp4
+- 14-07. Manipulating Attributes with jQuery.mp4
+- 14-08. Adding Event Listeners with jQuery.mp4
+- 14-09. Adding and Removing Elements with jQuery.mp4
+- 14-10. Website Animations with jQuery.mp4
+- 14-11. Tip from Angela - Mixing Knowledge.mp4
 	- [ ] Section 15 Boss Level Challenge 2 - The Simon Game | 26 lectures • 15min
 		- [ ] 198 01:00 What You'll Make: The Simon Game
 		- [ ] 199 00:06 Play the Game
