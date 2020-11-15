@@ -327,188 +327,108 @@ Line 696, Line 288 Section 20
 		- [ ] 22-11 291 02:56 Tip from Angela - Use Accountability in your Favour
 		- [ ] 22-12 292 00:12 Feedback Time!
 	- [ ] Section 23 Boss Level Challenge 3 - Blog Website | 46 lectures • 2hr 38min
-		- [ ] 293 06:18 A New Challenge Format and What We'll Make: A Blog | Preview
-		- [ ] 294 07:06 Setting Up the Blog Project
-		- [ ] 295 04:04 Challenge 1
-		- [ ] 296 02:37 Challenge 1 Solution
-		- [ ] 297 04:07 Challenge 2
-		- [ ] 298 02:09 Challenge 2 Solution
-		- [ ] 299 02:37 Challenge 3
-		- [ ] 300 02:31 Challenge 3 Solution
-		- [ ] 301 02:05 Challenge 4
-		- [ ] 302 01:52 Challenge 4 Solution
-		- [ ] 303 02:47 Challenge 5
-		- [ ] 304 04:16 Challenge 5 Solution
-		- [ ] 305 01:24 Challenge 6
-		- [ ] 306 01:15 Challenge 6 Solution
-		- [ ] 307 00:59 Challenge 7
-		- [ ] 308 01:54 Challenge 7 Solution
-		- [ ] 309 03:26 Challenge 8
-		- [ ] 310 03:36 Challenge 8 Solution
-		- [ ] 311 04:42 Challenge 9
-		- [ ] 312 06:33 Challenge 9 Solution
-		- [ ] 313 02:24 Challenge 10
-		- [ ] 314 03:13 Challenge 10 Solution
-		- [ ] 315 03:21 Challenge 11
-		- [ ] 316 03:00 Challenge 11 Solution
-		- [ ] 317 01:55 Challenge 12
-		- [ ] 318 02:34 Challenge 12 Solution
-		- [ ] 319 02:46 Challenge 13
-		- [ ] 320 03:37 Challenge 13 Solution
-		- [ ] 321 06:28 Challenge 14 and Solution
-		- [ ] 322 01:41 Challenge 15
-		- [ ] 323 03:14 Challenge 15 Solution
-		- [ ] 324 06:38 Express Routing Parameters
-		- [ ] 325 01:55 Challenge 16
-		- [ ] 326 02:32 Challenge 16 Solution
-		- [ ] 327 03:54 Challenge 17
-		- [ ] 328 05:30 Challenge 17 Solution
-		- [ ] 329 06:04 Challenge 18
-		- [ ] 330 04:19 Challenge 18 Solution
-		- [ ] 331 02:57 Challenge 19
-		- [ ] 332 04:54 Challenge 19 Solution
-		- [ ] 333 02:58 Challenge 20
-		- [ ] 334 03:18 Challenge 20 Solution
-		- [ ] 335 02:15 Challenge 21
-		- [ ] 336 03:44 Challenge 21 Solution
-		- [ ] 337 06:01 Tip from Angela - When Life Gives You Lemons
-		- [ ] 338 00:12 Feedback Time!
-23-01. A New Challenge Format and What We'll Make A Blog.mp4
-23-02. Setting Up the Blog Project.mp4
-23-03. Challenge 1.mp4
-23-04. Challenge 1 Solution.mp4
-23-05. Challenge 2.mp4
-23-06. Challenge 2 Solution.mp4
-23-07. Challenge 3.mp4
-23-08. Challenge 3 Solution.mp4
-23-09. Challenge 4.mp4
-23-10. Challenge 4 Solution.mp4
-23-11. Challenge 5.mp4
-23-12. Challenge 5 Solution.mp4
-23-13. Challenge 6.mp4
-23-14. Challenge 6 Solution.mp4
-23-15. Challenge 7.mp4
-23-16. Challenge 7 Solution.mp4
-23-17. Challenge 8.mp4
-23-18. Challenge 8 Solution.mp4
-23-19. Challenge 9.mp4
-23-20. Challenge 9 Solution.mp4
-23-21. Challenge 10.mp4
-23-22. Challenge 10 Solution.mp4
-23-23. Challenge 11.mp4
-23-24. Challenge 11 Solution.mp4
-23-25. Challenge 12.mp4
-23-26. Challenge 12 Solution.mp4
-23-27. Challenge 13.mp4
-23-28. Challenge 13 Solution.mp4
-23-29. Challenge 14 and Solution.mp4
-23-30. Challenge 15.mp4
-23-31. Challenge 15 Solution.mp4
-23-32. Express Routing Parameters.mp4
-23-33. Challenge 16.mp4
-23-34. Challenge 16 Solution.mp4
-23-35. Challenge 17.mp4
-23-36. Challenge 17 Solution.mp4
-23-37. Challenge 18.mp4
-23-38. Challenge 18 Solution.mp4
-23-39. Challenge 19.mp4
-23-40. Challenge 19 Solution.mp4
-23-41. Challenge 20.mp4
-23-42. Challenge 20 Solution.mp4
-23-43. Challenge 21.mp4
-23-44. Challenge 21 Solution.mp4
-23-45. Tip from Angela - When Life Gives You Lemons.mp4
+		- [ ] 23-01 293 06:18 A New Challenge Format and What We'll Make: A Blog | Preview
+		- [ ] 23-02 294 07:06 Setting Up the Blog Project
+		- [ ] 23-03 295 04:04 Challenge 1
+		- [ ] 23-04 296 02:37 Challenge 1 Solution
+		- [ ] 23-05 297 04:07 Challenge 2
+		- [ ] 23-06 298 02:09 Challenge 2 Solution
+		- [ ] 23-07 299 02:37 Challenge 3
+		- [ ] 23-08 300 02:31 Challenge 3 Solution
+		- [ ] 23-09 301 02:05 Challenge 4
+		- [ ] 23-10 302 01:52 Challenge 4 Solution
+		- [ ] 23-11 303 02:47 Challenge 5
+		- [ ] 23-12 304 04:16 Challenge 5 Solution
+		- [ ] 23-13 305 01:24 Challenge 6
+		- [ ] 23-14 306 01:15 Challenge 6 Solution
+		- [ ] 23-15 307 00:59 Challenge 7
+		- [ ] 23-16 308 01:54 Challenge 7 Solution
+		- [ ] 23-17 309 03:26 Challenge 8
+		- [ ] 23-18 310 03:36 Challenge 8 Solution
+		- [ ] 23-19 311 04:42 Challenge 9
+		- [ ] 23-20 312 06:33 Challenge 9 Solution
+		- [ ] 23-21 313 02:24 Challenge 10
+		- [ ] 23-22 314 03:13 Challenge 10 Solution
+		- [ ] 23-23 315 03:21 Challenge 11
+		- [ ] 23-24 316 03:00 Challenge 11 Solution
+		- [ ] 23-25 317 01:55 Challenge 12
+		- [ ] 23-26 318 02:34 Challenge 12 Solution
+		- [ ] 23-27 319 02:46 Challenge 13
+		- [ ] 23-28 320 03:37 Challenge 13 Solution
+		- [ ] 23-29 321 06:28 Challenge 14 and Solution
+		- [ ] 23-30 322 01:41 Challenge 15
+		- [ ] 23-31 323 03:14 Challenge 15 Solution
+		- [ ] 23-32 324 06:38 Express Routing Parameters
+		- [ ] 23-33 325 01:55 Challenge 16
+		- [ ] 23-34 326 02:32 Challenge 16 Solution
+		- [ ] 23-35 327 03:54 Challenge 17
+		- [ ] 23-36 328 05:30 Challenge 17 Solution
+		- [ ] 23-37 329 06:04 Challenge 18
+		- [ ] 23-38 330 04:19 Challenge 18 Solution
+		- [ ] 23-39 331 02:57 Challenge 19
+		- [ ] 23-40 332 04:54 Challenge 19 Solution
+		- [ ] 23-41 333 02:58 Challenge 20
+		- [ ] 23-42 334 03:18 Challenge 20 Solution
+		- [ ] 23-43 335 02:15 Challenge 21
+		- [ ] 23-44 336 03:44 Challenge 21 Solution
+		- [ ] 23-45 337 06:01 Tip from Angela - When Life Gives You Lemons
+		- [ ] 23-46 338 00:12 Feedback Time!
 	- [ ] Section 24 Databases 1 lecture • 20min
 		- [ ] 24-01 339 19:58 Databases Explained: SQL vs. NOSQL | Preview
 	- [ ] Section 25 SQL | 7 lectures • 37min
-		- [ ] 340 13:48 SQL Commands: CREATE Table and INSERT Data
-		- [ ] 341 03:10 SQL Commands: READ, SELECT, and WHERE
-		- [ ] 342 04:42 Updating Single Values and Adding Columns in SQL
-		- [ ] 343 01:32 SQL Commands: DELETE
-		- [ ] 344 11:13 Understanding SQL Relationships, Foreign Keys and Inner Joins
-		- [ ] 345 02:01 Tip from Angela - Find All the Hard Working People
-		- [ ] 346 00:12 Feedback Time!
-25-01. SQL Commands CREATE Table and INSERT Data.mp4
-25-02. SQL Commands READ, SELECT, and WHERE.mp4
-25-03. Updating Single Values and Adding Columns in SQL.mp4
-25-04. SQL Commands DELETE.mp4
-25-05. Understanding SQL Relationships, Foreign Keys and Inner Joins.mp4
-25-06. Tip from Angela - Find All the Hard Working People.mp4
+		- [ ] 25-01 340 13:48 SQL Commands: CREATE Table and INSERT Data
+		- [ ] 25-02 341 03:10 SQL Commands: READ, SELECT, and WHERE
+		- [ ] 25-03 342 04:42 Updating Single Values and Adding Columns in SQL
+		- [ ] 25-04 343 01:32 SQL Commands: DELETE
+		- [ ] 25-05 344 11:13 Understanding SQL Relationships, Foreign Keys and Inner Joins
+		- [ ] 25-06 345 02:01 Tip from Angela - Find All the Hard Working People
+		- [ ] 25-07 346 00:12 Feedback Time!
 	- [ ] Section 26 MongoDB | 11 lectures • 1hr 12min
-		- [ ] 347 12:34 Installing MongoDB on Mac
-		- [ ] 348 09:20 Installing MongoDB on Windows
-		- [ ] 349 09:37 MongoDB CRUD Operations in the Shell: Create
-		- [ ] 350 06:22 MongoDB CRUD Operations in the Shell: Reading & Queries
-		- [ ] 351 04:07 MongoDB CRUD Operations in the Shell: Update
-		- [ ] 352 01:45 MongoDB CRUD Operations in the Shell: Delete
-		- [ ] 353 06:12 Relationships in MongoDB
-		- [ ] 354 19:03 Working with The Native MongoDB Driver
-		- [ ] 355 00:30 If You Have Forgotten to Quit the Mongod Server
-		- [ ] 356 02:34 Tip from Angela - Daily Routines
-		- [ ] 357 00:12 Feedback Time!
-26-01. Installing MongoDB on Mac.mp4
-26-02. Installing MongoDB on Windows.mp4
-26-03. MongoDB CRUD Operations in the Shell Create.mp4
-26-04. MongoDB CRUD Operations in the Shell Reading & Queries.mp4
-26-05. MongoDB CRUD Operations in the Shell Update.mp4
-26-06. MongoDB CRUD Operations in the Shell Delete.mp4
-26-07. Relationships in MongoDB.mp4
-26-08. Working with The Native MongoDB Driver.mp4
-26-10. Tip from Angela - Daily Routines.mp4
+		- [ ] 26-01 347 12:34 Installing MongoDB on Mac
+		- [ ] 26-02 348 09:20 Installing MongoDB on Windows
+		- [ ] 26-03 349 09:37 MongoDB CRUD Operations in the Shell: Create
+		- [ ] 26-04 350 06:22 MongoDB CRUD Operations in the Shell: Reading & Queries
+		- [ ] 26-05 351 04:07 MongoDB CRUD Operations in the Shell: Update
+		- [ ] 26-06 352 01:45 MongoDB CRUD Operations in the Shell: Delete
+		- [ ] 26-07 353 06:12 Relationships in MongoDB
+		- [ ] 26-08 354 19:03 Working with The Native MongoDB Driver
+		- [ ] 26-09 355 00:30 If You Have Forgotten to Quit the Mongod Server
+		- [ ] 26-10 356 02:34 Tip from Angela - Daily Routines
+		- [ ] 26-11 357 00:12 Feedback Time!
 	- [ ] Section 27 Mongoose | 7 lectures • 56min
-		- [ ] 358 20:26 Introduction to Mongoose
-		- [ ] 359 07:28 Reading from Your Database with Mongoose
-		- [ ] 360 07:55 Data Validation with Mongoose
-		- [ ] 361 10:06 Updating and Deleting Data Using Mongoose
-		- [ ] 362 06:45 Establishing Relationships and Embedding Documents using Mongoose
-		- [ ] 363 03:01 Tip from Angela - Deep Work
-		- [ ] 364 00:12 Feedback Time!
-27-01. Introduction to Mongoose.mp4
-27-02. Reading from Your Database with Mongoose.mp4
-27-03. Data Validation with Mongoose.mp4
-27-04. Updating and Deleting Data Using Mongoose.mp4
-27-05. Establishing Relationships and Embedding Documents using Mongoose.mp4
-27-06. Tip from Angela - Deep Work.mp4
+		- [ ] 27-01 358 20:26 Introduction to Mongoose
+		- [ ] 27-02 359 07:28 Reading from Your Database with Mongoose
+		- [ ] 27-03 360 07:55 Data Validation with Mongoose
+		- [ ] 27-04 361 10:06 Updating and Deleting Data Using Mongoose
+		- [ ] 27-05 362 06:45 Establishing Relationships and Embedding Documents using Mongoose
+		- [ ] 27-06 363 03:01 Tip from Angela - Deep Work
+		- [ ] 27-01 364 00:12 Feedback Time!
 	- [ ] Section 28 Putting Everything Together | 9 lectures • 1hr 34min
-		- [ ] 365 16:46 Let's take the ToDoList Proj to the Next Level & Connect it w Mongoose
-		- [ ] 366 13:25 Rendering Database Items in the ToDoList App
-		- [ ] 367 03:56 Adding New Items to our ToDoList Database
-		- [ ] 368 13:48 Deleting Items from our ToDoList Database
-		- [ ] 369 16:12 Creating Custom Lists using Express Route Parameters
-		- [ ] 370 07:31 Adding New Items to the Custom ToDo Lists
-		- [ ] 371 19:10 Revisiting Lodash and Deleting Items from Custom ToDo Lists
-		- [ ] 372 02:54 Tip from Angela - One Step at a Time
-		- [ ] 373 00:12 Feedback Time!
-28-01. Let's take the ToDoList Project to the Next Level and Connect it with Mongoose.mp4
-28-02. Rendering Database Items in the ToDoList App.mp4
-28-03. Adding New Items to our ToDoList Database.mp4
-28-04. Deleting Items from our ToDoList Database.mp4
-28-05. Creating Custom Lists using Express Route Parameters.mp4
-28-06. Adding New Items to the Custom ToDo Lists.mp4
-28-07. Revisiting Lodash and Deleting Items from Custom ToDo Lists.mp4
-28-08. Tip from Angela - One Step at a Time.mp4
+		- [ ] 28-01 365 16:46 Let's take the ToDoList Proj to the Next Level & Connect it w Mongoose
+		- [ ] 28-02 366 13:25 Rendering Database Items in the ToDoList App
+		- [ ] 28-03 367 03:56 Adding New Items to our ToDoList Database
+		- [ ] 28-04 368 13:48 Deleting Items from our ToDoList Database
+		- [ ] 28-05 369 16:12 Creating Custom Lists using Express Route Parameters
+		- [ ] 28-06 370 07:31 Adding New Items to the Custom ToDo Lists
+		- [ ] 28-07 371 19:10 Revisiting Lodash and Deleting Items from Custom ToDo Lists
+		- [ ] 28-08 372 02:54 Tip from Angela - One Step at a Time
+		- [ ] 28-09 373 00:12 Feedback Time!
 	- [ ] Section 29 Deploying Your Web Application | 5 lectures • 33min
-		- [ ] 374 05:02 How to Deploy Web Apps with a Database
-		- [ ] 375 13:41 How to Setup MongoDB Atlas
-		- [ ] 376 12:13 Deploying an App with a Database to Heroku
-		- [ ] 377 02:20 Tip from Angela - Discipline Breeds Discipline
-		- [ ] 378 00:12 Feedback Time!
-29-01. How to Deploy Web Apps with a Database.mp4
-29-02. How to Setup MongoDB Atlas.mp4
-29-03. Deploying an App with a Database to Heroku.mp4
-29-04. Tip from Angela - Discipline Breeds Discipline.mp4
+		- [ ] 29-01 374 05:02 How to Deploy Web Apps with a Database
+		- [ ] 29-02 375 13:41 How to Setup MongoDB Atlas
+		- [ ] 29-03 376 12:13 Deploying an App with a Database to Heroku
+		- [ ] 29-04 377 02:20 Tip from Angela - Discipline Breeds Discipline
+		- [ ] 29-05 378 00:12 Feedback Time!
 	- [ ] Section 30 Boss Level Challenge 4 - Blog Website Upgrade | 9 lectures • 10min
-		- [ ] 379 02:31 Challenge: Give your Blog a Database
-		- [ ] 380 00:06 Step 0 - Download the Starting Files
-		- [ ] 381 00:35 Step 1 - Save Composed Posts with MongoDB
-		- [ ] 382 00:14 Step 2 - Get the Home Page to Render the Posts
-		- [ ] 383 00:18 Step 3 - Fix the bug
-		- [ ] 384 00:32 Step 4 - Render the correct blog post based on post_id
-		- [ ] 385 00:09 Completed Blog with Database Solution
-		- [ ] 386 05:22 Tip from Angela - Dealing with Limitations
-		- [ ] 387 00:12 Feedback Time!
-30-01. Challenge Give your Blog a Database.mp4
-30-08. Tip from Angela - Dealing with Limitations.mp4
+		- [ ] 30-01 379 02:31 Challenge: Give your Blog a Database
+		- [ ] 30-02 380 00:06 Step 0 - Download the Starting Files
+		- [ ] 30-03 381 00:35 Step 1 - Save Composed Posts with MongoDB
+		- [ ] 30-04 382 00:14 Step 2 - Get the Home Page to Render the Posts
+		- [ ] 30-05 383 00:18 Step 3 - Fix the bug
+		- [ ] 30-06 384 00:32 Step 4 - Render the correct blog post based on post_id
+		- [ ] 30-07 385 00:09 Completed Blog with Database Solution
+		- [ ] 30-08 386 05:22 Tip from Angela - Dealing with Limitations
+		- [ ] 30-09 387 00:12 Feedback Time!
 	- [ ] Section 31 Build Your Own RESTful API From Scratch | 15 lectures • 1hr 47min
 		- [ ] 388 17:08 What is REST?
 		- [ ] 389 09:29 Creating a Database with Robo 3T
