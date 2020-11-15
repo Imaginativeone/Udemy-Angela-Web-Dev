@@ -430,154 +430,89 @@ Line 696, Line 288 Section 20
 		- [ ] 30-08 386 05:22 Tip from Angela - Dealing with Limitations
 		- [ ] 30-09 387 00:12 Feedback Time!
 	- [ ] Section 31 Build Your Own RESTful API From Scratch | 15 lectures • 1hr 47min
-		- [ ] 388 17:08 What is REST?
-		- [ ] 389 09:29 Creating a Database with Robo 3T
-		- [ ] 390 02:09 Set Up Server Challenge
-		- [ ] 391 07:30 Set Up Server Solution
-		- [ ] 392 06:50 GET All Articles
-		- [ ] 393 12:51 POST a New Article
-		- [ ] 394 05:11 DELTE All Articles
-		- [ ] 395 07:07 Chained Route Handlers Using Express
-		- [ ] 396 14:02 GET a Specific Article
-		- [ ] 397 10:32 PUT a Specific Article
-		- [ ] 398 07:17 PATCH a Specific Article
-		- [ ] 399 04:04 DELETE a Specific Article
-		- [ ] 400 00:08 Download the Completed Project Code
-		- [ ] 401 02:06 Tip from Angela - How to Get a Job as Programmer
-		- [ ] 402 00:12 Feedback Time!
-31-01. What is REST.mp4
-31-02. Creating a Database with Robo 3T.mp4
-31-03. Set Up Server Challenge.mp4
-31-04. Set Up Server Solution.mp4
-31-05. GET All Articles.mp4
-31-06. POST a New Article.mp4
-31-07. DELTE All Articles.mp4
-31-08. Chained Route Handlers Using Express.mp4
-31-09. GET a Specific Article.mp4
-31-10. PUT a Specific Article.mp4
-31-11. PATCH a Specific Article.mp4
-31-12. DELETE a Specific Article.mp4
-31-14. Tip from Angela - How to Get a Job as Programmer.mp4
+		- [ ] 31-01 388 17:08 What is REST?
+		- [ ] 31-02 389 09:29 Creating a Database with Robo 3T
+		- [ ] 31-03 390 02:09 Set Up Server Challenge
+		- [ ] 31-04 391 07:30 Set Up Server Solution
+		- [ ] 31-05 392 06:50 GET All Articles
+		- [ ] 31-06 393 12:51 POST a New Article
+		- [ ] 31-07 394 05:11 DELTE All Articles
+		- [ ] 31-08 395 07:07 Chained Route Handlers Using Express
+		- [ ] 31-09 396 14:02 GET a Specific Article
+		- [ ] 31-10 397 10:32 PUT a Specific Article
+		- [ ] 31-11 398 07:17 PATCH a Specific Article
+		- [ ] 31-12 399 04:04 DELETE a Specific Article
+		- [ ] 31-13 400 00:08 Download the Completed Project Code
+		- [ ] 31-14 401 02:06 Tip from Angela - How to Get a Job as Programmer
+		- [ ] 31-15 402 00:12 Feedback Time!
 	- [ ] Section 32 Authentication & Security | 16 lectures • 3hr 33min
-		- [ ] 403 05:46 Introduction to Authentication
-		- [ ] 404 07:26 Getting Set Up
-		- [ ] 405 14:42 Level 1 - Register Users with Username and Password
-		- [ ] 406 00:39 How to Review the Source Code
-		- [ ] 407 16:35 Level 2 - Database Encryption
-		- [ ] 408 17:40 Using Environment Variables to Keep Secrets Safe
-		- [ ] 409 15:25 Level 3 - Hashing Passwords
-		- [ ] 410 12:28 Hacking 101 ☣️
-		- [ ] 411 20:41 Level 4 - Salting and Hashing Passwords with bcrypt
-		- [ ] 412 08:19 What are Cookies and Sessions?
-		- [ ] 413 29:30 Using Passport.js to Add Cookies and Sessions
-		- [ ] 414 47:46 Level 6 - OAuth 2.0 & How to Implement Sign In with Google
-		- [ ] 415 13:40 Finishing Up the App - Letting Users Submit Secrets
-		- [ ] 416 00:19 Download the Completed Project Code
-		- [ ] 417 01:37 Tip from Angela - How to Work as a Freelancer
-		- [ ] 418 00:12 Feedback Time!
-32-01. Introduction to Authentication.mp4
-32-02. Getting Set Up.mp4
-32-03. Level 1 - Register Users with Username and Password.mp4
-32-05. Level 2 - Database Encryption.mp4
-32-06. Using Environment Variables to Keep Secrets Safe.mp4
-32-07. Level 3 - Hashing Passwords.mp4
-32-08. Hacking 101 ☣️.mp4
-32-09. Level 4 - Salting and Hashing Passwords with bcrypt.mp4
-32-10. What are Cookies and Sessions.mp4
-32-11. Using Passport.js to Add Cookies and Sessions.mp4
-32-12. Level 6 - OAuth 2.0 & How to Implement Sign In with Google.mp4
-32-13. Finishing Up the App - Letting Users Submit Secrets.mp4
-32-15. Tip from Angela - How to Work as a Freelancer.mp4
+		- [ ] 32-01 403 05:46 Introduction to Authentication
+		- [ ] 32-02 404 07:26 Getting Set Up
+		- [ ] 32-03 405 14:42 Level 1 - Register Users with Username and Password
+		- [ ] 32-04 406 00:39 How to Review the Source Code
+		- [ ] 32-05 407 16:35 Level 2 - Database Encryption
+		- [ ] 32-06 408 17:40 Using Environment Variables to Keep Secrets Safe
+		- [ ] 32-07 409 15:25 Level 3 - Hashing Passwords
+		- [ ] 32-08 410 12:28 Hacking 101 ☣️
+		- [ ] 32-09 411 20:41 Level 4 - Salting and Hashing Passwords with bcrypt
+		- [ ] 32-10 412 08:19 What are Cookies and Sessions?
+		- [ ] 32-11 413 29:30 Using Passport.js to Add Cookies and Sessions
+		- [ ] 32-12 414 47:46 Level 6 - OAuth 2.0 & How to Implement Sign In with Google
+		- [ ] 32-13 415 13:40 Finishing Up the App - Letting Users Submit Secrets
+		- [ ] 32-14 416 00:19 Download the Completed Project Code
+		- [ ] 32-15 417 01:37 Tip from Angela - How to Work as a Freelancer
+		- [ ] 32-16 418 00:12 Feedback Time!
 	- [ ] Section 33 React.js | 46 lectures • 8hr 54min
 		- [ ] 33-01 419 07:28 What is React?
-***	- [ ] 420 01:34 What we will make in this React module
-		- [ ] 421 05:50 Introduction to Code Sandbox and the Structure of the Module
-		- [ ] 422 16:12 Introduction to JSX and Babel
-		- [ ] 423 07:34 JSX Code Practice
-		- [ ] 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
-		- [ ] 425 08:34 Javascript Expressions in JSX Practice
-		- [ ] 426 16:58 JSX Attributes & Styling React Elements
-		- [ ] 427 08:41 Inline Styling for React Elements
-		- [ ] 428 09:59 React Styling Practice
-		- [ ] 429 15:47 React Components
-***	- [ ] 430 05:01 React Components Practice
-		- [ ] 431 11:10 Javascript ES6 - Import, Export and Modules
-		- [ ] 432 04:04 Javascript ES6 Import, Export and Modules Practice
-		- [ ] 433 13:52 [Windows]​ Local Environment Setup for React Development
-		- [ ] 434 13:40 [Mac] Local Environment Setup for React Development​
-		- [ ] 435 04:57 Keeper App Project - Part 1 Challenge
-		- [ ] 436 14:07 Keeper App Part 1 Solution
-		- [ ] 437 16:44 React Props
-		- [ ] 438 13:19 React Props Practice
-		- [ ] 439 17:19 React DevTools
-***	- [ ] 440 10:20 Mapping Data to Components
-		- [ ] 441 17:30 Mapping Data to Components​ Practice
-		- [ ] 442 20:21 Javascript ES6 Map/Filter/Reduce
-		- [ ] 443 09:56 Javascript ES6 Arrow functions
-		- [ ] 444 10:23 Keeper App Project - Part 2
-		- [ ] 445 19:24 React Conditional Rendering with the Ternary Operator & AND Operator
-		- [ ] 446 06:33 Conditional Rendering Practice
-		- [ ] 447 09:38 State in React - Declarative vs. Imperative Programming
-		- [ ] 448 18:09 React Hooks - useState
-		- [ ] 449 07:24 useState Hook Practice
-***	- [ ] 450 17:44 Javascript ES6 Object & Array Destructuring
-		- [ ] 451 05:48 Javascript ​ES6 Destructuring Challenge Solution
-		- [ ] 452 11:10 Event Handling in React
-		- [ ] 453 13:40 React Forms
-		- [ ] 454 06:24 Class Components vs. Functional Components
-		- [ ] 455 19:43 Changing Complex State
-		- [ ] 456 07:08 Changing Complex State Practice
-		- [ ] 457 10:58 Javascript ES6 Spread Operator
-***	- [ ] 458 12:20 Javascript ES6 Spread Operator Practice
+	  - [ ] 33-02 420 01:34 What we will make in this React module
+		- [ ] 33-03 421 05:50 Introduction to Code Sandbox and the Structure of the Module
+		- [ ] 33-04 422 16:12 Introduction to JSX and Babel
+		- [ ] 33-05 423 07:34 JSX Code Practice
+		- [ ] 33-06 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
+		- [ ] 33-07 425 08:34 Javascript Expressions in JSX Practice
+		- [ ] 33-08 426 16:58 JSX Attributes & Styling React Elements
+		- [ ] 33-09 427 08:41 Inline Styling for React Elements
+		- [ ] 33-10 428 09:59 React Styling Practice
+		- [ ] 33-11 429 15:47 React Components
+    - [ ] 33-12 430 05:01 React Components Practice
+		- [ ] 33-13 431 11:10 Javascript ES6 - Import, Export and Modules
+		- [ ] 33-14 432 04:04 Javascript ES6 Import, Export and Modules Practice
+		- [ ] 33-15 433 13:52 [Windows]​ Local Environment Setup for React Development
+		- [ ] 33-16 434 13:40 [Mac] Local Environment Setup for React Development​
+		- [ ] 33-17 435 04:57 Keeper App Project - Part 1 Challenge
+		- [ ] 33-18 436 14:07 Keeper App Part 1 Solution
+		- [ ] 33-19 437 16:44 React Props
+		- [ ] 33-20 438 13:19 React Props Practice
+		- [ ] 33-21 439 17:19 React DevTools
+    - [ ] 33-22 440 10:20 Mapping Data to Components
+		- [ ] 33-23 441 17:30 Mapping Data to Components​ Practice
+		- [ ] 33-24 442 20:21 Javascript ES6 Map/Filter/Reduce
+		- [ ] 33-25 443 09:56 Javascript ES6 Arrow functions
+		- [ ] 33-26 444 10:23 Keeper App Project - Part 2
+		- [ ] 33-27 445 19:24 React Conditional Rendering with the Ternary Operator & AND Operator
+		- [ ] 33-28 446 06:33 Conditional Rendering Practice
+		- [ ] 33-29 447 09:38 State in React - Declarative vs. Imperative Programming
+		- [ ] 33-30 448 18:09 React Hooks - useState
+		- [ ] 33-31 449 07:24 useState Hook Practice
+    - [ ] 33-32 450 17:44 Javascript ES6 Object & Array Destructuring
+		- [ ] 33-33 451 05:48 Javascript ​ES6 Destructuring Challenge Solution
+		- [ ] 33-34 452 11:10 Event Handling in React
+		- [ ] 33-35 453 13:40 React Forms
+		- [ ] 33-36 454 06:24 Class Components vs. Functional Components
+		- [ ] 33-37 455 19:43 Changing Complex State
+		- [ ] 33-38 456 07:08 Changing Complex State Practice
+		- [ ] 33-39 457 10:58 Javascript ES6 Spread Operator
+    - [ ] 33-40 458 12:20 Javascript ES6 Spread Operator Practice
 		- [ ] 33-41 459 22:37 Managing a Component Tree
 		- [ ] 33-42 460 08:27 Managing a Component Tree Practice
 		- [ ] 33-43 461 25:05 Keeper App Project - Part 3
 		- [ ] 33-44 462 16:38 React Dependencies & Styling the Keeper App
 		- [ ] 33-45 463 02:14 Tip from Angela - How to Build Your Own Product
-		- [ ] 33-00 464 00:12 Feedback Time!
-33-02. What we will make in this React module.mp4
-33-03. Introduction to Code Sandbox and the Structure of the Module.mp4
-33-04. Introduction to JSX and Babel.mp4
-33-05. JSX Code Practice.mp4
-33-06. Javascript Expressions in JSX & ES6 Template Literals.mp4
-33-07. Javascript Expressions in JSX Practice.mp4
-33-08. JSX Attributes & Styling React Elements.mp4
-33-09. Inline Styling for React Elements.mp4
-*** 33-10. React Styling Practice.mp4
-33-11. React Components.mp4
-33-12. React Components Practice.mp4
-33-13. Javascript ES6 - Import, Export and Modules.mp4
-33-14. Javascript ES6 Import, Export and Modules Practice.mp4
-33-15. [Windows]​ Local Environment Setup for React Development.mp4
-33-16. [Mac] Local Environment Setup for React Development​.mp4
-33-17. Keeper App Project - Part 1 Challenge.mp4
-33-18. Keeper App Part 1 Solution.mp4
-33-19. React Props.mp4
-*** 33-20. React Props Practice.mp4
-33-21. React DevTools.mp4
-33-22. Mapping Data to Components.mp4
-33-23. Mapping Data to Components​ Practice.mp4
-33-24. Javascript ES6 MapFilterReduce.mp4
-33-25. Javascript ES6 Arrow functions.mp4
-33-26. Keeper App Project - Part 2.mp4
-33-27. React Conditional Rendering with the Ternary Operator & AND Operator.mp4
-33-28. Conditional Rendering Practice.mp4
-33-29. State in React - Declarative vs. Imperative Programming.mp4
-*** 33-30. React Hooks - useState.mp4
-33-31. useState Hook Practice.mp4
-33-32. Javascript ES6 Object & Array Destructuring.mp4
-33-33. Javascript ​ES6 Destructuring Challenge Solution.mp4
-33-34. Event Handling in React.mp4
-33-35. React Forms.mp4
-33-36. Class Components vs. Functional Components.mp4
-33-37. Changing Complex State.mp4
-33-38. Changing Complex State Practice.mp4
-33-39. Javascript ES6 Spread Operator.mp4
-*** 33-40. Javascript ES6 Spread Operator Practice.mp4
+		- [ ] 33-46 464 00:12 Feedback Time!
 	- [ ] Section 34 Bonus Module: Ask Angela Anything | 4 lectures • 1hr 44min
 		- [ ] 34-01 465 39:42 AAA 1 - How to Soak in Programming Concepts and more...
 		- [ ] 34-02 466 39:08 AAA 2 - Schedule for Learning to Code and more...
 		- [ ] 34-03 467 25:19 AAA 3 - How to Start Freelancing and more...
 		- [ ] 34-00 468 00:12 Feedback Time!
 	- [ ] Section 35 Next Steps 1 lecture • 1min
-		- [ ] 35-00 469 00:12 Vote for the Next Module!
+		- [ ] 35-01 469 00:12 Vote for the Next Module!
