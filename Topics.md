@@ -302,25 +302,17 @@ Line 696, Line 288 Section 20
 		- [ ] 20-14 268 02:06 Tip from Angela - Location, Location, Location!
 		- [ ] 20-15 269 00:12 Feedback Time!
 	- [ ] Section 21 Git, Github and Version Control | 11 lectures • 1hr 25min
-		- [ ] 270 02:35 Introduction to Version Control and Git
-		- [ ] 271 15:02 Version Control Using Git and the Command Line
-		- [ ] 272 11:00 GitHub and Remote Repositories
-		- [ ] 273 00:11 GitHub Private Repos are now Free! ?
-		- [ ] 274 12:02 .gitignore
-		- [ ] 275 05:05 Cloning
-		- [ ] 276 17:25 Branching and Merging
-		- [ ] 277 00:05 Optional Git Challenge
-		- [ ] 278 17:08 Forking and Pull Requests
-		- [ ] 279 04:01 Tip from Angela - Spaced Repetition
-		- [ ] 280 00:12 Feedback Time!
-21-01. Introduction to Version Control and Git.mp4
-21-02. Version Control Using Git and the Command Line.mp4
-21-03. GitHub and Remote Repositories.mp4
-21-05. Gitignore.mp4
-21-06. Cloning.mp4
-21-07. Branching and Merging.mp4
-21-09. Forking and Pull Requests.mp4
-21-10. Tip from Angela - Spaced Repetition.mp4
+		- [ ] 21-01 270 02:35 Introduction to Version Control and Git
+		- [ ] 21-02 271 15:02 Version Control Using Git and the Command Line
+		- [ ] 21-03 272 11:00 GitHub and Remote Repositories
+		- [ ] 21-04 273 00:11 GitHub Private Repos are now Free! ?
+		- [ ] 21-05 274 12:02 .gitignore
+		- [ ] 21-06 275 05:05 Cloning
+		- [ ] 21-07 276 17:25 Branching and Merging
+		- [ ] 21-08 277 00:05 Optional Git Challenge
+		- [ ] 21-09 278 17:08 Forking and Pull Requests
+		- [ ] 21-10 279 04:01 Tip from Angela - Spaced Repetition
+		- [ ] 21-11 280 00:12 Feedback Time!
 	- [ ] Section 22 EJS | 12 lectures • 2hr 9min
 		- [ ] 281 00:46 What We'll Make: A ToDoList | Preview
 		- [ ] 282 00:08 Linter Errors with EJS
