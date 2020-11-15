@@ -1,4 +1,3 @@
-Line 696, Line 288 Section 20
 - [ ] The Complete 2020 Web Development Bootcamp 35 sections • 469 lectures • 54h 12m
 	- [ ] Section 01 Front-End Web Development 10 lectures • 42min
 		- [ ] 01-01 001 03:09 What You'll Get in This Course Preview 
