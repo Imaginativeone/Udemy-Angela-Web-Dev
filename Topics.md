@@ -1,4 +1,4 @@
-Line 734, Line 183 Section 12
+Line 696, Line 288 Section 20
 - [ ] The Complete 2020 Web Development Bootcamp 35 sections • 469 lectures • 54h 12m
 	- [ ] Section 01 Front-End Web Development 10 lectures • 42min
 		- [ ] 01-01 001 03:09 What You'll Get in This Course Preview 
@@ -271,60 +271,36 @@ Line 734, Line 183 Section 12
 		- [ ] 18-08 239 01:14 Tip from Angela - Step Up to the Challenge
 		- [ ] 18-09 240 00:12 Feedback Time!
 	- [ ] Section 19 Express.js with Node.js | 14 lectures • 1hr 14min
-		- [ ] 241 03:24 What is Express?
-		- [ ] 242 11:29 Creating Our First Server with Express
-		- [ ] 243 08:12 Handling Requests and Responses: the GET Request
-		- [ ] 244 01:12 Nodemon Installation
-		- [ ] 245 09:23 Understanding and Working with Routes
-		- [ ] 246 01:52 What We'll Make: A Calculator
-		- [ ] 247 00:25 Calculator Setup Challenge
-		- [ ] 248 05:43 Calculator Setup: Challenge Solution
-		- [ ] 249 07:40 Responding to Requests with HTML Files
-		- [ ] 250 14:19 Processing Post Requests with Body Parser
-		- [ ] 251 00:51 BMI Routing Challenge
-		- [ ] 252 06:29 Solution to the BMI Routing Challenge
-		- [ ] 253 02:55 Tip from Angela - How to Solidify Your Knowledge
-		- [ ] 254 00:12 Feedback Time!
-19-01. What is Express.mp4
-19-02. Creating Our First Server with Express.mp4
-19-03. Handling Requests and Responses the GET Request.mp4
-19-05. Understanding and Working with Routes.mp4
-19-06. What We'll Make A Calculator.mp4
-19-08. Calculator Setup Challenge Solution.mp4
-19-09. Responding to Requests with HTML Files.mp4
-19-10. Processing Post Requests with Body Parser.mp4
-19-12. Solution to the BMI Routing Challenge.mp4
-19-13. Tip from Angela - How to Solidify Your Knowledge.mp4
+		- [ ] 19-01 241 03:24 What is Express?
+		- [ ] 19-02 242 11:29 Creating Our First Server with Express
+		- [ ] 19-03 243 08:12 Handling Requests and Responses: the GET Request
+		- [ ] 19-04 244 01:12 Nodemon Installation
+		- [ ] 19-05 245 09:23 Understanding and Working with Routes
+		- [ ] 19-06 246 01:52 What We'll Make: A Calculator
+		- [ ] 19-07 247 00:25 Calculator Setup Challenge
+		- [ ] 19-08 248 05:43 Calculator Setup: Challenge Solution
+		- [ ] 19-09 249 07:40 Responding to Requests with HTML Files
+		- [ ] 19-10 250 14:19 Processing Post Requests with Body Parser
+		- [ ] 19-11 251 00:51 BMI Routing Challenge
+		- [ ] 19-12 252 06:29 Solution to the BMI Routing Challenge
+		- [ ] 19-13 253 02:55 Tip from Angela - How to Solidify Your Knowledge
+		- [ ] 19-14 254 00:12 Feedback Time!
 	- [ ] Section 20 APIs - Application Programming Interfaces | 15 lectures • 2hr 33min
-		- [ ] 255 08:50 Why Do We Need APIs?
-		- [ ] 256 10:59 API Endpoints, Paths and Parameters.
-		- [ ] 257 11:34 API Authentication and Postman
-		- [ ] 258 04:54 What is JSON?
-		- [ ] 259 13:00 Making GET Requests with the Node HTTPS Module
-		- [ ] 260 13:05 How to Parse JSON
-		- [ ] 261 08:23 Using Express to Render a Website with Live API Data
-		- [ ] 262 10:05 Using Body Parser to Parse POST Requests to the Server
-		- [ ] 263 02:41 The Mailchimp API - What You'll Make
-		- [ ] 264 20:52 Setting Up the Sign Up Page
-		- [ ] 265 18:37 Posting Data to Mailchimp's Servers via their API
-		- [ ] 266 08:55 Adding Success and Failure Pages
-		- [ ] 267 18:38 Deploying Your Server with Heroku
-		- [ ] 268 02:06 Tip from Angela - Location, Location, Location!
-		- [ ] 269 00:12 Feedback Time!
-20-01. Why Do We Need APIs.mp4
-20-02. API Endpoints, Paths and Parameters..mp4
-20-03. API Authentication and Postman.mp4
-20-04. What is JSON.mp4
-20-05. Making GET Requests with the Node HTTPS Module.mp4
-20-06. How to Parse JSON.mp4
-20-07. Using Express to Render a Website with Live API Data.mp4
-20-08. Using Body Parser to Parse POST Requests to the Server.mp4
-20-09. The Mailchimp API - What You'll Make.mp4
-20-10. Setting Up the Sign Up Page.mp4
-20-11. Posting Data to Mailchimp's Servers via their API.mp4
-20-12. Adding Success and Failure Pages.mp4
-20-13. Deploying Your Server with Heroku.mp4
-20-14. Tip from Angela - Location, Location, Location!.mp4
+		- [ ] 20-01 255 08:50 Why Do We Need APIs?
+		- [ ] 20-02 256 10:59 API Endpoints, Paths and Parameters.
+		- [ ] 20-03 257 11:34 API Authentication and Postman
+		- [ ] 20-04 258 04:54 What is JSON?
+		- [ ] 20-05 259 13:00 Making GET Requests with the Node HTTPS Module
+		- [ ] 20-06 260 13:05 How to Parse JSON
+		- [ ] 20-07 261 08:23 Using Express to Render a Website with Live API Data
+		- [ ] 20-08 262 10:05 Using Body Parser to Parse POST Requests to the Server
+		- [ ] 20-09 263 02:41 The Mailchimp API - What You'll Make
+		- [ ] 20-10 264 20:52 Setting Up the Sign Up Page
+		- [ ] 20-11 265 18:37 Posting Data to Mailchimp's Servers via their API
+		- [ ] 20-12 266 08:55 Adding Success and Failure Pages
+		- [ ] 20-13 267 18:38 Deploying Your Server with Heroku
+		- [ ] 20-14 268 02:06 Tip from Angela - Location, Location, Location!
+		- [ ] 20-15 269 00:12 Feedback Time!
 	- [ ] Section 21 Git, Github and Version Control | 11 lectures • 1hr 25min
 		- [ ] 270 02:35 Introduction to Version Control and Git
 		- [ ] 271 15:02 Version Control Using Git and the Command Line
