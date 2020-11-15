@@ -314,28 +314,18 @@ Line 696, Line 288 Section 20
 		- [ ] 21-10 279 04:01 Tip from Angela - Spaced Repetition
 		- [ ] 21-11 280 00:12 Feedback Time!
 	- [ ] Section 22 EJS | 12 lectures • 2hr 9min
-		- [ ] 281 00:46 What We'll Make: A ToDoList | Preview
-		- [ ] 282 00:08 Linter Errors with EJS
-		- [ ] 283 15:10 Templates? Why Do We Need Templates?
-		- [ ] 284 17:53 Creating Your First EJS Templates
-		- [ ] 285 06:33 Running Code Inside the EJS Template
-		- [ ] 286 25:05 Passing Data from Your Webpage to Your Server
-		- [ ] 287 08:40 The Concept of Scope in the Context of Javascript
-		- [ ] 288 16:14 Adding Pre-Made CSS Stylesheets to Your Website
-		- [ ] 289 13:35 Understanding Templating vs. Layouts
-		- [ ] 290 21:45 Understanding Node Module Exports: How to Pass Funcs & Data btwn Files
-		- [ ] 291 02:56 Tip from Angela - Use Accountability in your Favour
-		- [ ] 292 00:12 Feedback Time!
-22-01. What We'll Make A ToDoList.mp4
-22-03. Templates Why Do We Need Templates.mp4
-22-04. Creating Your First EJS Templates.mp4
-22-05. Running Code Inside the EJS Template.mp4
-22-06. Passing Data from Your Webpage to Your Server.mp4
-22-07. The Concept of Scope in the Context of Javascript.mp4
-22-08. Adding Pre-Made CSS Stylesheets to Your Website.mp4
-22-09. Understanding Templating vs. Layouts.mp4
-22-10. Understanding Node Module Exports How to Pass Functions and Data between Files.mp4
-22-11. Tip from Angela - Use Accountability in your Favour.mp4
+		- [ ] 22-01 281 00:46 What We'll Make: A ToDoList | Preview
+		- [ ] 22-02 282 00:08 Linter Errors with EJS
+		- [ ] 22-03 283 15:10 Templates? Why Do We Need Templates?
+		- [ ] 22-04 284 17:53 Creating Your First EJS Templates
+		- [ ] 22-05 285 06:33 Running Code Inside the EJS Template
+		- [ ] 22-06 286 25:05 Passing Data from Your Webpage to Your Server
+		- [ ] 22-07 287 08:40 The Concept of Scope in the Context of Javascript
+		- [ ] 22-08 288 16:14 Adding Pre-Made CSS Stylesheets to Your Website
+		- [ ] 22-09 289 13:35 Understanding Templating vs. Layouts
+		- [ ] 22-10 290 21:45 Understanding Node Module Exports: How to Pass Funcs & Data btwn Files
+		- [ ] 22-11 291 02:56 Tip from Angela - Use Accountability in your Favour
+		- [ ] 22-12 292 00:12 Feedback Time!
 	- [ ] Section 23 Boss Level Challenge 3 - Blog Website | 46 lectures • 2hr 38min
 		- [ ] 293 06:18 A New Challenge Format and What We'll Make: A Blog | Preview
 		- [ ] 294 07:06 Setting Up the Blog Project
