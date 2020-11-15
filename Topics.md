@@ -466,13 +466,13 @@ Line 696, Line 288 Section 20
 		- [ ] 33-01 419 07:28 What is React?
 	  - [ ] 33-02 420 01:34 What we will make in this React module
 	  - [ ] 33-03 421 05:50 Introduction to Code Sandbox and the Structure of the Module
-		- [ ] 33-04 422 16:12 Introduction to JSX and Babel
-		- [ ] 33-05 423 07:34 JSX Code Practice
-		- [ ] 33-06 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
-		- [ ] 33-07 425 08:34 Javascript Expressions in JSX Practice
-		- [ ] 33-08 426 16:58 JSX Attributes & Styling React Elements
-		- [ ] 33-09 427 08:41 Inline Styling for React Elements
-		- [ ] 33-10 428 09:59 React Styling Practice
+	  - [ ] 33-04 422 16:12 Introduction to JSX and Babel
+	  - [ ] 33-05 423 07:34 JSX Code Practice
+	  - [ ] 33-06 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
+	  - [ ] 33-07 425 08:34 Javascript Expressions in JSX Practice
+	  - [ ] 33-08 426 16:58 JSX Attributes & Styling React Elements
+	  - [ ] 33-09 427 08:41 Inline Styling for React Elements
+	  - [ ] 33-10 428 09:59 React Styling Practice
 		- [ ] 33-11 429 15:47 React Components
 		- [ ] 33-12 430 05:01 React Components Practice
 		- [ ] 33-13 431 11:10 Javascript ES6 - Import, Export and Modules
