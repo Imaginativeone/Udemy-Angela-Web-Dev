@@ -465,7 +465,7 @@ Line 696, Line 288 Section 20
 	- [ ] Section 33 React.js | 46 lectures • 8hr 54min
 		- [ ] 33-01 419 07:28 What is React?
 	  - [ ] 33-02 420 01:34 What we will make in this React module
-		- [ ] 33-03 421 05:50 Introduction to Code Sandbox and the Structure of the Module
+	  - [ ] 33-03 421 05:50 Introduction to Code Sandbox and the Structure of the Module
 		- [ ] 33-04 422 16:12 Introduction to JSX and Babel
 		- [ ] 33-05 423 07:34 JSX Code Practice
 		- [ ] 33-06 424 11:42 Javascript Expressions in JSX & ES6 Template Literals
@@ -474,7 +474,7 @@ Line 696, Line 288 Section 20
 		- [ ] 33-09 427 08:41 Inline Styling for React Elements
 		- [ ] 33-10 428 09:59 React Styling Practice
 		- [ ] 33-11 429 15:47 React Components
-    - [ ] 33-12 430 05:01 React Components Practice
+		- [ ] 33-12 430 05:01 React Components Practice
 		- [ ] 33-13 431 11:10 Javascript ES6 - Import, Export and Modules
 		- [ ] 33-14 432 04:04 Javascript ES6 Import, Export and Modules Practice
 		- [ ] 33-15 433 13:52 [Windows]​ Local Environment Setup for React Development
@@ -484,7 +484,7 @@ Line 696, Line 288 Section 20
 		- [ ] 33-19 437 16:44 React Props
 		- [ ] 33-20 438 13:19 React Props Practice
 		- [ ] 33-21 439 17:19 React DevTools
-    - [ ] 33-22 440 10:20 Mapping Data to Components
+		- [ ] 33-22 440 10:20 Mapping Data to Components
 		- [ ] 33-23 441 17:30 Mapping Data to Components​ Practice
 		- [ ] 33-24 442 20:21 Javascript ES6 Map/Filter/Reduce
 		- [ ] 33-25 443 09:56 Javascript ES6 Arrow functions
@@ -494,7 +494,7 @@ Line 696, Line 288 Section 20
 		- [ ] 33-29 447 09:38 State in React - Declarative vs. Imperative Programming
 		- [ ] 33-30 448 18:09 React Hooks - useState
 		- [ ] 33-31 449 07:24 useState Hook Practice
-    - [ ] 33-32 450 17:44 Javascript ES6 Object & Array Destructuring
+		- [ ] 33-32 450 17:44 Javascript ES6 Object & Array Destructuring
 		- [ ] 33-33 451 05:48 Javascript ​ES6 Destructuring Challenge Solution
 		- [ ] 33-34 452 11:10 Event Handling in React
 		- [ ] 33-35 453 13:40 React Forms
@@ -502,7 +502,7 @@ Line 696, Line 288 Section 20
 		- [ ] 33-37 455 19:43 Changing Complex State
 		- [ ] 33-38 456 07:08 Changing Complex State Practice
 		- [ ] 33-39 457 10:58 Javascript ES6 Spread Operator
-    - [ ] 33-40 458 12:20 Javascript ES6 Spread Operator Practice
+		- [ ] 33-40 458 12:20 Javascript ES6 Spread Operator Practice
 		- [ ] 33-41 459 22:37 Managing a Component Tree
 		- [ ] 33-42 460 08:27 Managing a Component Tree Practice
 		- [ ] 33-43 461 25:05 Keeper App Project - Part 3
